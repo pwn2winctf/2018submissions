@@ -89,28 +89,32 @@
    "team": "securisecctf"
   }, 
   {
-   "lastAccept": 1543554000, 
+   "lastAccept": 1543612187, 
    "pos": 4, 
-   "score": 973, 
+   "score": 1341, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 134, 
-     "time": 1543554000
+     "time": 1543592788
+    }, 
+    "bavarian_hierarchy": {
+     "points": 394, 
+     "time": 1543606267
     }, 
     "g00d_b0y": {
      "points": 176, 
-     "time": 1543592806
+     "time": 1543592332
     }, 
     "sum": {
      "points": 163, 
-     "time": 1543601724
+     "time": 1543597063
     }, 
     "ultramegapolyglot": {
-     "points": 500, 
-     "time": 1543601385
+     "points": 474, 
+     "time": 1543612187
     }
    }, 
-   "team": "GooseCTF"
+   "team": "The Wind Warriors"
   }, 
   {
    "lastAccept": 1543611033, 
@@ -129,8 +133,32 @@
    "team": "Billy"
   }, 
   {
-   "lastAccept": 1543605500, 
+   "lastAccept": 1543554000, 
    "pos": 6, 
+   "score": 947, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 134, 
+     "time": 1543554000
+    }, 
+    "g00d_b0y": {
+     "points": 176, 
+     "time": 1543592806
+    }, 
+    "sum": {
+     "points": 163, 
+     "time": 1543601724
+    }, 
+    "ultramegapolyglot": {
+     "points": 474, 
+     "time": 1543601385
+    }
+   }, 
+   "team": "GooseCTF"
+  }, 
+  {
+   "lastAccept": 1543605500, 
+   "pos": 7, 
    "score": 947, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -154,7 +182,7 @@
   }, 
   {
    "lastAccept": 1543601852, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 867, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -175,30 +203,6 @@
     }
    }, 
    "team": "scanhex team"
-  }, 
-  {
-   "lastAccept": 1543606267, 
-   "pos": 8, 
-   "score": 867, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 134, 
-     "time": 1543592788
-    }, 
-    "bavarian_hierarchy": {
-     "points": 394, 
-     "time": 1543606267
-    }, 
-    "g00d_b0y": {
-     "points": 176, 
-     "time": 1543592332
-    }, 
-    "sum": {
-     "points": 163, 
-     "time": 1543597063
-    }
-   }, 
-   "team": "The Wind Warriors"
   }, 
   {
    "lastAccept": 1543611392, 
