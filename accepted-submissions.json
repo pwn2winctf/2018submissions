@@ -3,7 +3,7 @@
   {
    "lastAccept": 1543593837, 
    "pos": 1, 
-   "score": 940, 
+   "score": 930, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 249, 
@@ -14,7 +14,7 @@
      "time": 1543593006
     }, 
     "sum": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543593837
     }
    }, 
@@ -23,7 +23,7 @@
   {
    "lastAccept": 1543593854, 
    "pos": 2, 
-   "score": 940, 
+   "score": 930, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 249, 
@@ -34,7 +34,7 @@
      "time": 1543593451
     }, 
     "sum": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543593854
     }
    }, 
@@ -43,7 +43,7 @@
   {
    "lastAccept": 1543594200, 
    "pos": 3, 
-   "score": 940, 
+   "score": 930, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 249, 
@@ -54,7 +54,7 @@
      "time": 1543594200
     }, 
     "sum": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543594046
     }
    }, 
@@ -63,7 +63,7 @@
   {
    "lastAccept": 1543594225, 
    "pos": 4, 
-   "score": 940, 
+   "score": 930, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 249, 
@@ -74,7 +74,7 @@
      "time": 1543592813
     }, 
     "sum": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543594225
     }
    }, 
@@ -83,7 +83,7 @@
   {
    "lastAccept": 1543594381, 
    "pos": 5, 
-   "score": 940, 
+   "score": 930, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 249, 
@@ -94,23 +94,43 @@
      "time": 1543593826
     }, 
     "sum": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543594381
     }
    }, 
    "team": "uroz"
   }, 
   {
-   "lastAccept": 1543594232, 
+   "lastAccept": 1543594410, 
    "pos": 6, 
-   "score": 632, 
+   "score": 930, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 249, 
+     "time": 1543594136
+    }, 
+    "g00d_b0y": {
+     "points": 308, 
+     "time": 1543593944
+    }, 
+    "sum": {
+     "points": 373, 
+     "time": 1543594410
+    }
+   }, 
+   "team": "#MongolianEmpire"
+  }, 
+  {
+   "lastAccept": 1543594232, 
+   "pos": 7, 
+   "score": 622, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 249, 
      "time": 1543592545
     }, 
     "sum": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543594232
     }
    }, 
@@ -118,15 +138,15 @@
   }, 
   {
    "lastAccept": 1543594343, 
-   "pos": 7, 
-   "score": 632, 
+   "pos": 8, 
+   "score": 622, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 249, 
      "time": 1543593922
     }, 
     "sum": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543594343
     }
    }, 
@@ -134,7 +154,7 @@
   }, 
   {
    "lastAccept": 1543592788, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 557, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -150,7 +170,7 @@
   }, 
   {
    "lastAccept": 1543592917, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 557, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -166,7 +186,7 @@
   }, 
   {
    "lastAccept": 1543593141, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 557, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -182,7 +202,7 @@
   }, 
   {
    "lastAccept": 1543593266, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 557, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -198,7 +218,7 @@
   }, 
   {
    "lastAccept": 1543593290, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 557, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -214,7 +234,7 @@
   }, 
   {
    "lastAccept": 1543593348, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 557, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -230,7 +250,7 @@
   }, 
   {
    "lastAccept": 1543593695, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 557, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -246,7 +266,7 @@
   }, 
   {
    "lastAccept": 1543593956, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 557, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -259,22 +279,6 @@
     }
    }, 
    "team": "DarkCoder"
-  }, 
-  {
-   "lastAccept": 1543594136, 
-   "pos": 16, 
-   "score": 557, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 249, 
-     "time": 1543594136
-    }, 
-    "g00d_b0y": {
-     "points": 308, 
-     "time": 1543593944
-    }
-   }, 
-   "team": "#MongolianEmpire"
   }, 
   {
    "lastAccept": 1543594390, 
@@ -295,10 +299,10 @@
   {
    "lastAccept": 1543594078, 
    "pos": 18, 
-   "score": 383, 
+   "score": 373, 
    "taskStats": {
     "sum": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543594078
     }
    }, 
