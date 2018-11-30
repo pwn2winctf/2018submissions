@@ -3,14 +3,14 @@
   {
    "lastAccept": 1543619363, 
    "pos": 1, 
-   "score": 2176, 
+   "score": 2166, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 120, 
      "time": 1543593165
     }, 
     "bavarian_hierarchy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543603146
     }, 
     "bergs_club": {
@@ -67,14 +67,14 @@
   {
    "lastAccept": 1543610690, 
    "pos": 3, 
-   "score": 1314, 
+   "score": 1304, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 120, 
      "time": 1543593922
     }, 
     "bavarian_hierarchy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543604393
     }, 
     "g00d_b0y": {
@@ -123,14 +123,14 @@
   {
    "lastAccept": 1543612187, 
    "pos": 5, 
-   "score": 1249, 
+   "score": 1239, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 120, 
      "time": 1543592788
     }, 
     "bavarian_hierarchy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543606267
     }, 
     "g00d_b0y": {
@@ -151,14 +151,14 @@
   {
    "lastAccept": 1543605989, 
    "pos": 6, 
-   "score": 1234, 
+   "score": 1224, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 120, 
      "time": 1543593159
     }, 
     "bavarian_hierarchy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543605273
     }, 
     "g00d_b0y": {
@@ -177,8 +177,32 @@
    "team": "securisecctf"
   }, 
   {
-   "lastAccept": 1543611033, 
+   "lastAccept": 1543620317, 
    "pos": 7, 
+   "score": 1076, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 120, 
+     "time": 1543596531
+    }, 
+    "bavarian_hierarchy": {
+     "points": 373, 
+     "time": 1543620317
+    }, 
+    "sum": {
+     "points": 148, 
+     "time": 1543598303
+    }, 
+    "ultramegapolyglot": {
+     "points": 435, 
+     "time": 1543617204
+    }
+   }, 
+   "team": "LosFuzzys"
+  }, 
+  {
+   "lastAccept": 1543611033, 
+   "pos": 8, 
    "score": 953, 
    "taskStats": {
     "minishell": {
@@ -194,7 +218,7 @@
   }, 
   {
    "lastAccept": 1543620101, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 905, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -218,7 +242,7 @@
   }, 
   {
    "lastAccept": 1543605500, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 851, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -242,7 +266,7 @@
   }, 
   {
    "lastAccept": 1543612441, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 851, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -266,15 +290,15 @@
   }, 
   {
    "lastAccept": 1543601852, 
-   "pos": 11, 
-   "score": 814, 
+   "pos": 12, 
+   "score": 804, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 120, 
      "time": 1543593301
     }, 
     "bavarian_hierarchy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543601511
     }, 
     "g00d_b0y": {
@@ -290,15 +314,15 @@
   }, 
   {
    "lastAccept": 1543611392, 
-   "pos": 12, 
-   "score": 814, 
+   "pos": 13, 
+   "score": 804, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 120, 
      "time": 1543606127
     }, 
     "bavarian_hierarchy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543611392
     }, 
     "g00d_b0y": {
@@ -314,15 +338,15 @@
   }, 
   {
    "lastAccept": 1543616726, 
-   "pos": 13, 
-   "score": 814, 
+   "pos": 14, 
+   "score": 804, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 120, 
      "time": 1543606401
     }, 
     "bavarian_hierarchy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543616726
     }, 
     "g00d_b0y": {
@@ -337,36 +361,16 @@
    "team": "0x00C0FFEE"
   }, 
   {
-   "lastAccept": 1543617204, 
-   "pos": 14, 
-   "score": 703, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 120, 
-     "time": 1543596531
-    }, 
-    "sum": {
-     "points": 148, 
-     "time": 1543598303
-    }, 
-    "ultramegapolyglot": {
-     "points": 435, 
-     "time": 1543617204
-    }
-   }, 
-   "team": "LosFuzzys"
-  }, 
-  {
    "lastAccept": 1543602880, 
    "pos": 15, 
-   "score": 651, 
+   "score": 641, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 120, 
      "time": 1543597765
     }, 
     "bavarian_hierarchy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1543602880
     }, 
     "sum": {
