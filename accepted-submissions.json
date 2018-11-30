@@ -15,14 +15,26 @@
   {
    "lastAccept": 1543592502, 
    "pos": 2, 
-   "score": 500, 
+   "score": 474, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 500, 
+     "points": 474, 
      "time": 1543592502
     }
    }, 
    "team": "M3OW"
+  }, 
+  {
+   "lastAccept": 1543592545, 
+   "pos": 3, 
+   "score": 474, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 474, 
+     "time": 1543592545
+    }
+   }, 
+   "team": "dozybrit"
   }
  ], 
  "tasks": [
