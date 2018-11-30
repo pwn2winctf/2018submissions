@@ -3,7 +3,7 @@
   {
    "lastAccept": 1543593837, 
    "pos": 1, 
-   "score": 1051, 
+   "score": 1030, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 263, 
@@ -14,7 +14,7 @@
      "time": 1543593006
     }, 
     "sum": {
-     "points": 474, 
+     "points": 453, 
      "time": 1543593837
     }
    }, 
@@ -23,7 +23,7 @@
   {
    "lastAccept": 1543593854, 
    "pos": 2, 
-   "score": 1051, 
+   "score": 1030, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 263, 
@@ -34,15 +34,31 @@
      "time": 1543593451
     }, 
     "sum": {
-     "points": 474, 
+     "points": 453, 
      "time": 1543593854
     }
    }, 
    "team": "318br"
   }, 
   {
-   "lastAccept": 1543592788, 
+   "lastAccept": 1543594046, 
    "pos": 3, 
+   "score": 716, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 263, 
+     "time": 1543592777
+    }, 
+    "sum": {
+     "points": 453, 
+     "time": 1543594046
+    }
+   }, 
+   "team": "JumpRopeNinjas"
+  }, 
+  {
+   "lastAccept": 1543592788, 
+   "pos": 4, 
    "score": 577, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -58,7 +74,7 @@
   }, 
   {
    "lastAccept": 1543592917, 
-   "pos": 4, 
+   "pos": 5, 
    "score": 577, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -74,7 +90,7 @@
   }, 
   {
    "lastAccept": 1543593141, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 577, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -90,7 +106,7 @@
   }, 
   {
    "lastAccept": 1543593221, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 577, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -106,7 +122,7 @@
   }, 
   {
    "lastAccept": 1543593266, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 577, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -122,7 +138,7 @@
   }, 
   {
    "lastAccept": 1543593290, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 577, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -138,7 +154,7 @@
   }, 
   {
    "lastAccept": 1543593348, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 577, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -154,7 +170,7 @@
   }, 
   {
    "lastAccept": 1543593695, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 577, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -170,7 +186,7 @@
   }, 
   {
    "lastAccept": 1543593826, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 577, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -186,7 +202,7 @@
   }, 
   {
    "lastAccept": 1543593956, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 577, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -202,7 +218,7 @@
   }, 
   {
    "lastAccept": 1543592806, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 314, 
    "taskStats": {
     "g00d_b0y": {
@@ -214,7 +230,7 @@
   }, 
   {
    "lastAccept": 1543593202, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 314, 
    "taskStats": {
     "g00d_b0y": {
@@ -226,7 +242,7 @@
   }, 
   {
    "lastAccept": 1543593314, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 314, 
    "taskStats": {
     "g00d_b0y": {
@@ -238,7 +254,7 @@
   }, 
   {
    "lastAccept": 1543593379, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 314, 
    "taskStats": {
     "g00d_b0y": {
@@ -250,7 +266,7 @@
   }, 
   {
    "lastAccept": 1543593944, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 314, 
    "taskStats": {
     "g00d_b0y": {
@@ -262,7 +278,7 @@
   }, 
   {
    "lastAccept": 1543592502, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 263, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -274,7 +290,7 @@
   }, 
   {
    "lastAccept": 1543592545, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 263, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -286,7 +302,7 @@
   }, 
   {
    "lastAccept": 1543592633, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 263, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -298,7 +314,7 @@
   }, 
   {
    "lastAccept": 1543592768, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 263, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -307,18 +323,6 @@
     }
    }, 
    "team": "Bushwhackers"
-  }, 
-  {
-   "lastAccept": 1543592777, 
-   "pos": 22, 
-   "score": 263, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 263, 
-     "time": 1543592777
-    }
-   }, 
-   "team": "JumpRopeNinjas"
   }, 
   {
    "lastAccept": 1543592857, 
