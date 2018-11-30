@@ -3,7 +3,7 @@
   {
    "lastAccept": 1543593837, 
    "pos": 1, 
-   "score": 884, 
+   "score": 877, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 234, 
@@ -14,7 +14,7 @@
      "time": 1543593006
     }, 
     "sum": {
-     "points": 347, 
+     "points": 340, 
      "time": 1543593837
     }
    }, 
@@ -23,7 +23,7 @@
   {
    "lastAccept": 1543593854, 
    "pos": 2, 
-   "score": 884, 
+   "score": 877, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 234, 
@@ -34,7 +34,7 @@
      "time": 1543593451
     }, 
     "sum": {
-     "points": 347, 
+     "points": 340, 
      "time": 1543593854
     }
    }, 
@@ -43,7 +43,7 @@
   {
    "lastAccept": 1543594200, 
    "pos": 3, 
-   "score": 884, 
+   "score": 877, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 234, 
@@ -54,7 +54,7 @@
      "time": 1543594200
     }, 
     "sum": {
-     "points": 347, 
+     "points": 340, 
      "time": 1543594046
     }
    }, 
@@ -63,7 +63,7 @@
   {
    "lastAccept": 1543594225, 
    "pos": 4, 
-   "score": 884, 
+   "score": 877, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 234, 
@@ -74,7 +74,7 @@
      "time": 1543592813
     }, 
     "sum": {
-     "points": 347, 
+     "points": 340, 
      "time": 1543594225
     }
    }, 
@@ -83,7 +83,7 @@
   {
    "lastAccept": 1543594381, 
    "pos": 5, 
-   "score": 884, 
+   "score": 877, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 234, 
@@ -94,7 +94,7 @@
      "time": 1543593826
     }, 
     "sum": {
-     "points": 347, 
+     "points": 340, 
      "time": 1543594381
     }
    }, 
@@ -103,7 +103,7 @@
   {
    "lastAccept": 1543594410, 
    "pos": 6, 
-   "score": 884, 
+   "score": 877, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 234, 
@@ -114,23 +114,43 @@
      "time": 1543593944
     }, 
     "sum": {
-     "points": 347, 
+     "points": 340, 
      "time": 1543594410
     }
    }, 
    "team": "#MongolianEmpire"
   }, 
   {
-   "lastAccept": 1543594232, 
+   "lastAccept": 1543594784, 
    "pos": 7, 
-   "score": 581, 
+   "score": 877, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 234, 
+     "time": 1543594390
+    }, 
+    "g00d_b0y": {
+     "points": 303, 
+     "time": 1543593202
+    }, 
+    "sum": {
+     "points": 340, 
+     "time": 1543594784
+    }
+   }, 
+   "team": "Czech Cyber Team"
+  }, 
+  {
+   "lastAccept": 1543594232, 
+   "pos": 8, 
+   "score": 574, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 234, 
      "time": 1543592545
     }, 
     "sum": {
-     "points": 347, 
+     "points": 340, 
      "time": 1543594232
     }
    }, 
@@ -138,15 +158,15 @@
   }, 
   {
    "lastAccept": 1543594343, 
-   "pos": 8, 
-   "score": 581, 
+   "pos": 9, 
+   "score": 574, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 234, 
      "time": 1543593922
     }, 
     "sum": {
-     "points": 347, 
+     "points": 340, 
      "time": 1543594343
     }
    }, 
@@ -154,15 +174,15 @@
   }, 
   {
    "lastAccept": 1543594484, 
-   "pos": 9, 
-   "score": 581, 
+   "pos": 10, 
+   "score": 574, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 234, 
      "time": 1543594484
     }, 
     "sum": {
-     "points": 347, 
+     "points": 340, 
      "time": 1543594078
     }
    }, 
@@ -170,15 +190,15 @@
   }, 
   {
    "lastAccept": 1543594528, 
-   "pos": 10, 
-   "score": 581, 
+   "pos": 11, 
+   "score": 574, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 234, 
      "time": 1543593808
     }, 
     "sum": {
-     "points": 347, 
+     "points": 340, 
      "time": 1543594528
     }
    }, 
@@ -186,15 +206,15 @@
   }, 
   {
    "lastAccept": 1543594690, 
-   "pos": 11, 
-   "score": 581, 
+   "pos": 12, 
+   "score": 574, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 234, 
      "time": 1543593159
     }, 
     "sum": {
-     "points": 347, 
+     "points": 340, 
      "time": 1543594690
     }
    }, 
@@ -202,15 +222,15 @@
   }, 
   {
    "lastAccept": 1543594696, 
-   "pos": 12, 
-   "score": 581, 
+   "pos": 13, 
+   "score": 574, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 234, 
      "time": 1543593875
     }, 
     "sum": {
-     "points": 347, 
+     "points": 340, 
      "time": 1543594696
     }
    }, 
@@ -218,7 +238,7 @@
   }, 
   {
    "lastAccept": 1543592788, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 537, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -234,7 +254,7 @@
   }, 
   {
    "lastAccept": 1543592917, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 537, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -250,7 +270,7 @@
   }, 
   {
    "lastAccept": 1543593141, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 537, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -266,7 +286,7 @@
   }, 
   {
    "lastAccept": 1543593266, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 537, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -282,7 +302,7 @@
   }, 
   {
    "lastAccept": 1543593290, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 537, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -298,7 +318,7 @@
   }, 
   {
    "lastAccept": 1543593348, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 537, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -314,7 +334,7 @@
   }, 
   {
    "lastAccept": 1543593695, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 537, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -330,7 +350,7 @@
   }, 
   {
    "lastAccept": 1543593956, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 537, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -343,22 +363,6 @@
     }
    }, 
    "team": "DarkCoder"
-  }, 
-  {
-   "lastAccept": 1543594390, 
-   "pos": 21, 
-   "score": 537, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 234, 
-     "time": 1543594390
-    }, 
-    "g00d_b0y": {
-     "points": 303, 
-     "time": 1543593202
-    }
-   }, 
-   "team": "Czech Cyber Team"
   }, 
   {
    "lastAccept": 1543594518, 
