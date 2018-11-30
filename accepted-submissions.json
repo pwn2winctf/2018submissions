@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1543603245, 
+   "lastAccept": 1543610671, 
    "pos": 1, 
-   "score": 1384, 
+   "score": 1858, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 134, 
@@ -20,6 +20,10 @@
     "g00d_b0y": {
      "points": 178, 
      "time": 1543593006
+    }, 
+    "minishell": {
+     "points": 474, 
+     "time": 1543610671
     }, 
     "sum": {
      "points": 166, 
@@ -197,20 +201,8 @@
    "team": "xCmq0CyNiN"
   }, 
   {
-   "lastAccept": 1543603343, 
-   "pos": 9, 
-   "score": 500, 
-   "taskStats": {
-    "minishell": {
-     "points": 500, 
-     "time": 1543603343
-    }
-   }, 
-   "team": "Billy"
-  }, 
-  {
    "lastAccept": 1543554000, 
-   "pos": 10, 
+   "pos": 9, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -230,7 +222,7 @@
   }, 
   {
    "lastAccept": 1543593854, 
-   "pos": 11, 
+   "pos": 10, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -250,7 +242,7 @@
   }, 
   {
    "lastAccept": 1543594200, 
-   "pos": 12, 
+   "pos": 11, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -270,7 +262,7 @@
   }, 
   {
    "lastAccept": 1543594225, 
-   "pos": 13, 
+   "pos": 12, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -290,7 +282,7 @@
   }, 
   {
    "lastAccept": 1543594381, 
-   "pos": 14, 
+   "pos": 13, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -310,7 +302,7 @@
   }, 
   {
    "lastAccept": 1543594410, 
-   "pos": 15, 
+   "pos": 14, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -330,7 +322,7 @@
   }, 
   {
    "lastAccept": 1543594784, 
-   "pos": 16, 
+   "pos": 15, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -350,7 +342,7 @@
   }, 
   {
    "lastAccept": 1543594910, 
-   "pos": 17, 
+   "pos": 16, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -370,7 +362,7 @@
   }, 
   {
    "lastAccept": 1543594921, 
-   "pos": 18, 
+   "pos": 17, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -390,7 +382,7 @@
   }, 
   {
    "lastAccept": 1543595079, 
-   "pos": 19, 
+   "pos": 18, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -410,7 +402,7 @@
   }, 
   {
    "lastAccept": 1543595749, 
-   "pos": 20, 
+   "pos": 19, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -430,7 +422,7 @@
   }, 
   {
    "lastAccept": 1543596035, 
-   "pos": 21, 
+   "pos": 20, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -450,7 +442,7 @@
   }, 
   {
    "lastAccept": 1543596285, 
-   "pos": 22, 
+   "pos": 21, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -470,7 +462,7 @@
   }, 
   {
    "lastAccept": 1543596523, 
-   "pos": 23, 
+   "pos": 22, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -490,7 +482,7 @@
   }, 
   {
    "lastAccept": 1543597631, 
-   "pos": 24, 
+   "pos": 23, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -510,7 +502,7 @@
   }, 
   {
    "lastAccept": 1543598535, 
-   "pos": 25, 
+   "pos": 24, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -530,7 +522,7 @@
   }, 
   {
    "lastAccept": 1543598548, 
-   "pos": 26, 
+   "pos": 25, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -550,7 +542,7 @@
   }, 
   {
    "lastAccept": 1543598739, 
-   "pos": 27, 
+   "pos": 26, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -570,7 +562,7 @@
   }, 
   {
    "lastAccept": 1543598987, 
-   "pos": 28, 
+   "pos": 27, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -590,7 +582,7 @@
   }, 
   {
    "lastAccept": 1543599042, 
-   "pos": 29, 
+   "pos": 28, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -610,7 +602,7 @@
   }, 
   {
    "lastAccept": 1543599630, 
-   "pos": 30, 
+   "pos": 29, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -630,7 +622,7 @@
   }, 
   {
    "lastAccept": 1543599831, 
-   "pos": 31, 
+   "pos": 30, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -650,7 +642,7 @@
   }, 
   {
    "lastAccept": 1543599908, 
-   "pos": 32, 
+   "pos": 31, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -670,7 +662,7 @@
   }, 
   {
    "lastAccept": 1543600951, 
-   "pos": 33, 
+   "pos": 32, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -690,7 +682,7 @@
   }, 
   {
    "lastAccept": 1543601622, 
-   "pos": 34, 
+   "pos": 33, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -710,7 +702,7 @@
   }, 
   {
    "lastAccept": 1543601813, 
-   "pos": 35, 
+   "pos": 34, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -730,7 +722,7 @@
   }, 
   {
    "lastAccept": 1543601895, 
-   "pos": 36, 
+   "pos": 35, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -750,7 +742,7 @@
   }, 
   {
    "lastAccept": 1543601942, 
-   "pos": 37, 
+   "pos": 36, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -770,7 +762,7 @@
   }, 
   {
    "lastAccept": 1543602662, 
-   "pos": 38, 
+   "pos": 37, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -790,7 +782,7 @@
   }, 
   {
    "lastAccept": 1543602843, 
-   "pos": 39, 
+   "pos": 38, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -810,7 +802,7 @@
   }, 
   {
    "lastAccept": 1543602900, 
-   "pos": 40, 
+   "pos": 39, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -830,7 +822,7 @@
   }, 
   {
    "lastAccept": 1543603867, 
-   "pos": 41, 
+   "pos": 40, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -850,7 +842,7 @@
   }, 
   {
    "lastAccept": 1543604260, 
-   "pos": 42, 
+   "pos": 41, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -870,7 +862,7 @@
   }, 
   {
    "lastAccept": 1543605053, 
-   "pos": 43, 
+   "pos": 42, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -890,7 +882,7 @@
   }, 
   {
    "lastAccept": 1543605847, 
-   "pos": 44, 
+   "pos": 43, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -910,7 +902,7 @@
   }, 
   {
    "lastAccept": 1543606032, 
-   "pos": 45, 
+   "pos": 44, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -930,7 +922,7 @@
   }, 
   {
    "lastAccept": 1543607340, 
-   "pos": 46, 
+   "pos": 45, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -950,7 +942,7 @@
   }, 
   {
    "lastAccept": 1543607972, 
-   "pos": 47, 
+   "pos": 46, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -970,7 +962,7 @@
   }, 
   {
    "lastAccept": 1543607982, 
-   "pos": 48, 
+   "pos": 47, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -990,7 +982,7 @@
   }, 
   {
    "lastAccept": 1543608828, 
-   "pos": 49, 
+   "pos": 48, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -1010,7 +1002,7 @@
   }, 
   {
    "lastAccept": 1543640400, 
-   "pos": 50, 
+   "pos": 49, 
    "score": 478, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -1027,6 +1019,18 @@
     }
    }, 
    "team": "Team_M"
+  }, 
+  {
+   "lastAccept": 1543603343, 
+   "pos": 50, 
+   "score": 474, 
+   "taskStats": {
+    "minishell": {
+     "points": 474, 
+     "time": 1543603343
+    }
+   }, 
+   "team": "Billy"
   }, 
   {
    "lastAccept": 1543597355, 
