@@ -1,8 +1,36 @@
 {
  "standings": [
   {
-   "lastAccept": 1543601852, 
+   "lastAccept": 1543603245, 
    "pos": 1, 
+   "score": 1522, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 166, 
+     "time": 1543593165
+    }, 
+    "bavarian_hierarchy": {
+     "points": 453, 
+     "time": 1543603146
+    }, 
+    "bergs_club": {
+     "points": 500, 
+     "time": 1543603245
+    }, 
+    "g00d_b0y": {
+     "points": 208, 
+     "time": 1543593006
+    }, 
+    "sum": {
+     "points": 195, 
+     "time": 1543593837
+    }
+   }, 
+   "team": "Balsn"
+  }, 
+  {
+   "lastAccept": 1543601852, 
+   "pos": 2, 
    "score": 1022, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -23,30 +51,6 @@
     }
    }, 
    "team": "scanhex team"
-  }, 
-  {
-   "lastAccept": 1543603146, 
-   "pos": 2, 
-   "score": 1022, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 166, 
-     "time": 1543593165
-    }, 
-    "bavarian_hierarchy": {
-     "points": 453, 
-     "time": 1543603146
-    }, 
-    "g00d_b0y": {
-     "points": 208, 
-     "time": 1543593006
-    }, 
-    "sum": {
-     "points": 195, 
-     "time": 1543593837
-    }
-   }, 
-   "team": "Balsn"
   }, 
   {
    "lastAccept": 1543601724, 
@@ -1266,6 +1270,7 @@
   "a_segregated_new_world", 
   "sum", 
   "ultramegapolyglot", 
-  "bavarian_hierarchy"
+  "bavarian_hierarchy", 
+  "bergs_club"
  ]
 }
