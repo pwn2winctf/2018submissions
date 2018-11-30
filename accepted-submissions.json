@@ -1,8 +1,28 @@
 {
  "standings": [
   {
-   "lastAccept": 1543592788, 
+   "lastAccept": 1543593837, 
    "pos": 1, 
+   "score": 1101, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 275, 
+     "time": 1543593165
+    }, 
+    "g00d_b0y": {
+     "points": 326, 
+     "time": 1543593006
+    }, 
+    "sum": {
+     "points": 500, 
+     "time": 1543593837
+    }
+   }, 
+   "team": "Balsn"
+  }, 
+  {
+   "lastAccept": 1543592788, 
+   "pos": 2, 
    "score": 601, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -18,7 +38,7 @@
   }, 
   {
    "lastAccept": 1543592917, 
-   "pos": 2, 
+   "pos": 3, 
    "score": 601, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -34,7 +54,7 @@
   }, 
   {
    "lastAccept": 1543593141, 
-   "pos": 3, 
+   "pos": 4, 
    "score": 601, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -47,22 +67,6 @@
     }
    }, 
    "team": "LuftensHjaltar"
-  }, 
-  {
-   "lastAccept": 1543593165, 
-   "pos": 4, 
-   "score": 601, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 275, 
-     "time": 1543593165
-    }, 
-    "g00d_b0y": {
-     "points": 326, 
-     "time": 1543593006
-    }
-   }, 
-   "team": "Balsn"
   }, 
   {
    "lastAccept": 1543593221, 
@@ -395,6 +399,7 @@
  ], 
  "tasks": [
   "g00d_b0y", 
-  "a_segregated_new_world"
+  "a_segregated_new_world", 
+  "sum"
  ]
 }
