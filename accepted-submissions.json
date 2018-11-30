@@ -1,0 +1,19 @@
+{
+ "standings": [
+  {
+   "lastAccept": 1543583605, 
+   "pos": 1, 
+   "score": 500, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 500, 
+     "time": 1543583605
+    }
+   }, 
+   "team": "Epic Leet Team"
+  }
+ ], 
+ "tasks": [
+  "a_segregated_new_world"
+ ]
+}
