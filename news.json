@@ -14,5 +14,9 @@
  {
   "msg": "We've added a minor comment on the 'U L T R A M E G A P O L Y G L O T' server, please check the update",
   "time": 1543608899
+ },
+ {
+  "msg": "There was a small bug in the Trick or Treat challenge that is now fixed. If you think your payload should have worked you can ask @herrera (IRC) for confirmation.",
+  "time": 1543610290
  }
 ]
