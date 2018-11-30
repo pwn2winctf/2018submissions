@@ -1,0 +1,19 @@
+{
+ "standings": [
+  {
+   "lastAccept": 1543592332, 
+   "pos": 1, 
+   "score": 500, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 500, 
+     "time": 1543592332
+    }
+   }, 
+   "team": "The Wind Warriors"
+  }
+ ], 
+ "tasks": [
+  "g00d_b0y"
+ ]
+}
