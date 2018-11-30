@@ -11,9 +11,22 @@
     }
    }, 
    "team": "The Wind Warriors"
+  }, 
+  {
+   "lastAccept": 1543592502, 
+   "pos": 2, 
+   "score": 500, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 500, 
+     "time": 1543592502
+    }
+   }, 
+   "team": "M3OW"
   }
  ], 
  "tasks": [
-  "g00d_b0y"
+  "g00d_b0y", 
+  "a_segregated_new_world"
  ]
 }
