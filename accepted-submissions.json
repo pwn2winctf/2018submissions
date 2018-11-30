@@ -61,8 +61,36 @@
    "team": "Kernel Sanders"
   }, 
   {
-   "lastAccept": 1543612187, 
+   "lastAccept": 1543618245, 
    "pos": 3, 
+   "score": 1313, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 123, 
+     "time": 1543554000
+    }, 
+    "g00d_b0y": {
+     "points": 168, 
+     "time": 1543592806
+    }, 
+    "gcm": {
+     "points": 420, 
+     "time": 1543618245
+    }, 
+    "sum": {
+     "points": 149, 
+     "time": 1543601724
+    }, 
+    "ultramegapolyglot": {
+     "points": 453, 
+     "time": 1543601385
+    }
+   }, 
+   "team": "GooseCTF"
+  }, 
+  {
+   "lastAccept": 1543612187, 
+   "pos": 4, 
    "score": 1276, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -90,8 +118,8 @@
   }, 
   {
    "lastAccept": 1543605989, 
-   "pos": 4, 
-   "score": 1258, 
+   "pos": 5, 
+   "score": 1243, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 123, 
@@ -106,7 +134,7 @@
      "time": 1543596913
     }, 
     "gcm": {
-     "points": 435, 
+     "points": 420, 
      "time": 1543605989
     }, 
     "sum": {
@@ -118,7 +146,7 @@
   }, 
   {
    "lastAccept": 1543618007, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 1225, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -142,7 +170,7 @@
   }, 
   {
    "lastAccept": 1543611033, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 953, 
    "taskStats": {
     "minishell": {
@@ -157,33 +185,9 @@
    "team": "Billy"
   }, 
   {
-   "lastAccept": 1543554000, 
-   "pos": 7, 
-   "score": 893, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 123, 
-     "time": 1543554000
-    }, 
-    "g00d_b0y": {
-     "points": 168, 
-     "time": 1543592806
-    }, 
-    "sum": {
-     "points": 149, 
-     "time": 1543601724
-    }, 
-    "ultramegapolyglot": {
-     "points": 453, 
-     "time": 1543601385
-    }
-   }, 
-   "team": "GooseCTF"
-  }, 
-  {
    "lastAccept": 1543605500, 
    "pos": 8, 
-   "score": 875, 
+   "score": 860, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 123, 
@@ -194,7 +198,7 @@
      "time": 1543604498
     }, 
     "gcm": {
-     "points": 435, 
+     "points": 420, 
      "time": 1543604115
     }, 
     "sum": {
@@ -207,7 +211,7 @@
   {
    "lastAccept": 1543612441, 
    "pos": 9, 
-   "score": 875, 
+   "score": 860, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 123, 
@@ -218,7 +222,7 @@
      "time": 1543596285
     }, 
     "gcm": {
-     "points": 435, 
+     "points": 420, 
      "time": 1543612441
     }, 
     "sum": {
@@ -363,14 +367,14 @@
   {
    "lastAccept": 1543617335, 
    "pos": 16, 
-   "score": 558, 
+   "score": 543, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 123, 
      "time": 1543607103
     }, 
     "gcm": {
-     "points": 435, 
+     "points": 420, 
      "time": 1543617335
     }
    }, 
