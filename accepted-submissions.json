@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1543610671, 
+   "lastAccept": 1543619363, 
    "pos": 1, 
-   "score": 1745, 
+   "score": 2180, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 121, 
@@ -28,6 +28,10 @@
     "sum": {
      "points": 148, 
      "time": 1543593837
+    }, 
+    "ultramegapolyglot": {
+     "points": 435, 
+     "time": 1543619363
     }
    }, 
    "team": "Balsn"
@@ -91,7 +95,7 @@
   {
    "lastAccept": 1543618245, 
    "pos": 4, 
-   "score": 1308, 
+   "score": 1290, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 121, 
@@ -110,7 +114,7 @@
      "time": 1543601724
     }, 
     "ultramegapolyglot": {
-     "points": 453, 
+     "points": 435, 
      "time": 1543601385
     }
    }, 
@@ -119,7 +123,7 @@
   {
    "lastAccept": 1543612187, 
    "pos": 5, 
-   "score": 1271, 
+   "score": 1253, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 121, 
@@ -138,7 +142,7 @@
      "time": 1543597063
     }, 
     "ultramegapolyglot": {
-     "points": 453, 
+     "points": 435, 
      "time": 1543612187
     }
    }, 
@@ -331,7 +335,7 @@
   {
    "lastAccept": 1543617204, 
    "pos": 14, 
-   "score": 722, 
+   "score": 704, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 121, 
@@ -342,7 +346,7 @@
      "time": 1543598303
     }, 
     "ultramegapolyglot": {
-     "points": 453, 
+     "points": 435, 
      "time": 1543617204
     }
    }, 
