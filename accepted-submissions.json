@@ -15,10 +15,10 @@
   {
    "lastAccept": 1543592502, 
    "pos": 2, 
-   "score": 435, 
+   "score": 420, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 435, 
+     "points": 420, 
      "time": 1543592502
     }
    }, 
@@ -27,10 +27,10 @@
   {
    "lastAccept": 1543592545, 
    "pos": 3, 
-   "score": 435, 
+   "score": 420, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 435, 
+     "points": 420, 
      "time": 1543592545
     }
    }, 
@@ -39,10 +39,10 @@
   {
    "lastAccept": 1543592633, 
    "pos": 4, 
-   "score": 435, 
+   "score": 420, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 435, 
+     "points": 420, 
      "time": 1543592633
     }
    }, 
@@ -51,14 +51,26 @@
   {
    "lastAccept": 1543592707, 
    "pos": 5, 
-   "score": 435, 
+   "score": 420, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 435, 
+     "points": 420, 
      "time": 1543592707
     }
    }, 
    "team": "Dragon Sector"
+  }, 
+  {
+   "lastAccept": 1543592768, 
+   "pos": 6, 
+   "score": 420, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 420, 
+     "time": 1543592768
+    }
+   }, 
+   "team": "Bushwhackers"
   }
  ], 
  "tasks": [
