@@ -15,10 +15,10 @@
   {
    "lastAccept": 1543592502, 
    "pos": 2, 
-   "score": 453, 
+   "score": 435, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 453, 
+     "points": 435, 
      "time": 1543592502
     }
    }, 
@@ -27,10 +27,10 @@
   {
    "lastAccept": 1543592545, 
    "pos": 3, 
-   "score": 453, 
+   "score": 435, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 453, 
+     "points": 435, 
      "time": 1543592545
     }
    }, 
@@ -39,14 +39,26 @@
   {
    "lastAccept": 1543592633, 
    "pos": 4, 
-   "score": 453, 
+   "score": 435, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 453, 
+     "points": 435, 
      "time": 1543592633
     }
    }, 
    "team": "justCatTheFish"
+  }, 
+  {
+   "lastAccept": 1543592707, 
+   "pos": 5, 
+   "score": 435, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 435, 
+     "time": 1543592707
+    }
+   }, 
+   "team": "Dragon Sector"
   }
  ], 
  "tasks": [
