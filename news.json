@@ -23,5 +23,9 @@
   "msg": "qiX9ZL/m0X/b+gwc40OIHpNn5fSZXWA98i0OaTUHZBxnRg7pi/EIBIWu8edIO1NGzynyib9dcoE7Qqjb+mrZmmmHJ/dDicB1RoINrZSdnwr2BvZCBP55nUf975n+83hCsz0DdkM=",
   "time": 1543610812,
   "to": "Balsn"
+ },
+ {
+  "msg": "Sorry, there was an unexpected bypass on Trick and Treat that was working in the browser but not in the bot. Now it's working on both. Please retry your payloads.",
+  "time": 1543621857
  }
 ]
