@@ -3,10 +3,10 @@
   {
    "lastAccept": 1543592788, 
    "pos": 1, 
-   "score": 760, 
+   "score": 753, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 340, 
+     "points": 333, 
      "time": 1543592788
     }, 
     "g00d_b0y": {
@@ -19,10 +19,10 @@
   {
    "lastAccept": 1543592917, 
    "pos": 2, 
-   "score": 760, 
+   "score": 753, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 340, 
+     "points": 333, 
      "time": 1543592917
     }, 
     "g00d_b0y": {
@@ -71,10 +71,10 @@
   {
    "lastAccept": 1543592502, 
    "pos": 6, 
-   "score": 340, 
+   "score": 333, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 340, 
+     "points": 333, 
      "time": 1543592502
     }
    }, 
@@ -83,10 +83,10 @@
   {
    "lastAccept": 1543592545, 
    "pos": 7, 
-   "score": 340, 
+   "score": 333, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 340, 
+     "points": 333, 
      "time": 1543592545
     }
    }, 
@@ -95,10 +95,10 @@
   {
    "lastAccept": 1543592633, 
    "pos": 8, 
-   "score": 340, 
+   "score": 333, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 340, 
+     "points": 333, 
      "time": 1543592633
     }
    }, 
@@ -107,10 +107,10 @@
   {
    "lastAccept": 1543592707, 
    "pos": 9, 
-   "score": 340, 
+   "score": 333, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 340, 
+     "points": 333, 
      "time": 1543592707
     }
    }, 
@@ -119,10 +119,10 @@
   {
    "lastAccept": 1543592768, 
    "pos": 10, 
-   "score": 340, 
+   "score": 333, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 340, 
+     "points": 333, 
      "time": 1543592768
     }
    }, 
@@ -131,10 +131,10 @@
   {
    "lastAccept": 1543592777, 
    "pos": 11, 
-   "score": 340, 
+   "score": 333, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 340, 
+     "points": 333, 
      "time": 1543592777
     }
    }, 
@@ -143,10 +143,10 @@
   {
    "lastAccept": 1543592857, 
    "pos": 12, 
-   "score": 340, 
+   "score": 333, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 340, 
+     "points": 333, 
      "time": 1543592857
     }
    }, 
@@ -155,10 +155,10 @@
   {
    "lastAccept": 1543592928, 
    "pos": 13, 
-   "score": 340, 
+   "score": 333, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 340, 
+     "points": 333, 
      "time": 1543592928
     }
    }, 
@@ -167,10 +167,10 @@
   {
    "lastAccept": 1543592936, 
    "pos": 14, 
-   "score": 340, 
+   "score": 333, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 340, 
+     "points": 333, 
      "time": 1543592936
     }
    }, 
@@ -179,10 +179,10 @@
   {
    "lastAccept": 1543592986, 
    "pos": 15, 
-   "score": 340, 
+   "score": 333, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 340, 
+     "points": 333, 
      "time": 1543592986
     }
    }, 
@@ -191,14 +191,26 @@
   {
    "lastAccept": 1543592998, 
    "pos": 16, 
-   "score": 340, 
+   "score": 333, 
    "taskStats": {
     "a_segregated_new_world": {
-     "points": 340, 
+     "points": 333, 
      "time": 1543592998
     }
    }, 
    "team": "LuftensHjaltar"
+  }, 
+  {
+   "lastAccept": 1543593039, 
+   "pos": 17, 
+   "score": 333, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 333, 
+     "time": 1543593039
+    }
+   }, 
+   "team": "HiPBnJ"
   }
  ], 
  "tasks": [
