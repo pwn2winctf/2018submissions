@@ -705,10 +705,14 @@
    "team": "WizardsOfDos"
   }, 
   {
-   "lastAccept": 1543653180, 
+   "lastAccept": 1543653592, 
    "pos": 28, 
-   "score": 383, 
+   "score": 476, 
    "taskStats": {
+    "a_segregated_new_world": {
+     "points": 93, 
+     "time": 1543653592
+    }, 
     "minishell": {
      "points": 383, 
      "time": 1543653180
