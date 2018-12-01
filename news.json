@@ -71,5 +71,9 @@
  {
   "msg": "Inherit the Stars problem statement was misleading. The set of nodes matters, not just the amount of nodes. Please check the new statement.",
   "time": 1543660487
+ },
+ {
+  "msg": "Sorry, TPM 2.0's server is temporarily off for maintenance.",
+  "time": 1543667628
  }
 ]
