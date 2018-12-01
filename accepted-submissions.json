@@ -3,7 +3,7 @@
   {
    "lastAccept": 1543619363, 
    "pos": 1, 
-   "score": 2011, 
+   "score": 1997, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 104, 
@@ -22,7 +22,7 @@
      "time": 1543593006
     }, 
     "minishell": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543610671
     }, 
     "sum": {
@@ -37,8 +37,40 @@
    "team": "Balsn"
   }, 
   {
-   "lastAccept": 1543623294, 
+   "lastAccept": 1543637182, 
    "pos": 2, 
+   "score": 1624, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 104, 
+     "time": 1543593922
+    }, 
+    "bavarian_hierarchy": {
+     "points": 340, 
+     "time": 1543604393
+    }, 
+    "g00d_b0y": {
+     "points": 144, 
+     "time": 1543597868
+    }, 
+    "minishell": {
+     "points": 406, 
+     "time": 1543637182
+    }, 
+    "russian_polygons": {
+     "points": 500, 
+     "time": 1543610690
+    }, 
+    "sum": {
+     "points": 130, 
+     "time": 1543594343
+    }
+   }, 
+   "team": "Kernel Sanders"
+  }, 
+  {
+   "lastAccept": 1543623294, 
+   "pos": 3, 
    "score": 1558, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -70,8 +102,8 @@
   }, 
   {
    "lastAccept": 1543628212, 
-   "pos": 3, 
-   "score": 1558, 
+   "pos": 4, 
+   "score": 1544, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 104, 
@@ -86,7 +118,7 @@
      "time": 1543592332
     }, 
     "minishell": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543628212
     }, 
     "sum": {
@@ -102,8 +134,8 @@
   }, 
   {
    "lastAccept": 1543618501, 
-   "pos": 4, 
-   "score": 1298, 
+   "pos": 5, 
+   "score": 1284, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 104, 
@@ -114,7 +146,7 @@
      "time": 1543618501
     }, 
     "minishell": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543611018
     }, 
     "sum": {
@@ -127,34 +159,6 @@
     }
    }, 
    "team": "Bushwhackers"
-  }, 
-  {
-   "lastAccept": 1543610690, 
-   "pos": 5, 
-   "score": 1218, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 104, 
-     "time": 1543593922
-    }, 
-    "bavarian_hierarchy": {
-     "points": 340, 
-     "time": 1543604393
-    }, 
-    "g00d_b0y": {
-     "points": 144, 
-     "time": 1543597868
-    }, 
-    "russian_polygons": {
-     "points": 500, 
-     "time": 1543610690
-    }, 
-    "sum": {
-     "points": 130, 
-     "time": 1543594343
-    }
-   }, 
-   "team": "Kernel Sanders"
   }, 
   {
    "lastAccept": 1543626757, 
@@ -239,10 +243,10 @@
   {
    "lastAccept": 1543611033, 
    "pos": 9, 
-   "score": 920, 
+   "score": 906, 
    "taskStats": {
     "minishell": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543603343
     }, 
     "super_storage": {
@@ -495,7 +499,7 @@
   {
    "lastAccept": 1543622164, 
    "pos": 20, 
-   "score": 668, 
+   "score": 654, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 104, 
@@ -506,7 +510,7 @@
      "time": 1543622164
     }, 
     "minishell": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543621090
     }
    }, 
