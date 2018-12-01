@@ -3,7 +3,7 @@
   {
    "lastAccept": 1543675234, 
    "pos": 1, 
-   "score": 2874, 
+   "score": 2853, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 75, 
@@ -26,7 +26,7 @@
      "time": 1543653138
     }, 
     "message_board_pt1": {
-     "points": 474, 
+     "points": 453, 
      "time": 1543666743
     }, 
     "minishell": {
@@ -51,7 +51,7 @@
   {
    "lastAccept": 1543647266, 
    "pos": 2, 
-   "score": 1788, 
+   "score": 1767, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 75, 
@@ -70,7 +70,7 @@
      "time": 1543618245
     }, 
     "message_board_pt1": {
-     "points": 474, 
+     "points": 453, 
      "time": 1543647266
     }, 
     "sum": {
@@ -85,8 +85,44 @@
    "team": "GooseCTF"
   }, 
   {
-   "lastAccept": 1543668652, 
+   "lastAccept": 1543690761, 
    "pos": 3, 
+   "score": 1745, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 75, 
+     "time": 1543593221
+    }, 
+    "bavarian_hierarchy": {
+     "points": 271, 
+     "time": 1543641787
+    }, 
+    "g00d_b0y": {
+     "points": 123, 
+     "time": 1543592813
+    }, 
+    "gcm": {
+     "points": 383, 
+     "time": 1543673488
+    }, 
+    "message_board_pt1": {
+     "points": 453, 
+     "time": 1543690761
+    }, 
+    "minishell": {
+     "points": 333, 
+     "time": 1543645017
+    }, 
+    "sum": {
+     "points": 107, 
+     "time": 1543594225
+    }
+   }, 
+   "team": "FireShell"
+  }, 
+  {
+   "lastAccept": 1543668652, 
+   "pos": 4, 
    "score": 1738, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -122,7 +158,7 @@
   }, 
   {
    "lastAccept": 1543670644, 
-   "pos": 4, 
+   "pos": 5, 
    "score": 1612, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -154,7 +190,7 @@
   }, 
   {
    "lastAccept": 1543681950, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 1611, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -190,7 +226,7 @@
   }, 
   {
    "lastAccept": 1543676296, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 1497, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -222,7 +258,7 @@
   }, 
   {
    "lastAccept": 1543686209, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 1427, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -254,7 +290,7 @@
   }, 
   {
    "lastAccept": 1543680891, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 1403, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -282,7 +318,7 @@
   }, 
   {
    "lastAccept": 1543685871, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 1344, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -314,7 +350,7 @@
   }, 
   {
    "lastAccept": 1543686116, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 1315, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -346,7 +382,7 @@
   }, 
   {
    "lastAccept": 1543683479, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 1306, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -375,38 +411,6 @@
     }
    }, 
    "team": "securisecctf"
-  }, 
-  {
-   "lastAccept": 1543673488, 
-   "pos": 12, 
-   "score": 1292, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 75, 
-     "time": 1543593221
-    }, 
-    "bavarian_hierarchy": {
-     "points": 271, 
-     "time": 1543641787
-    }, 
-    "g00d_b0y": {
-     "points": 123, 
-     "time": 1543592813
-    }, 
-    "gcm": {
-     "points": 383, 
-     "time": 1543673488
-    }, 
-    "minishell": {
-     "points": 333, 
-     "time": 1543645017
-    }, 
-    "sum": {
-     "points": 107, 
-     "time": 1543594225
-    }
-   }, 
-   "team": "FireShell"
   }, 
   {
    "lastAccept": 1543644913, 
