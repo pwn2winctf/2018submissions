@@ -2711,6 +2711,18 @@
     }
    }, 
    "team": "bleleet"
+  }, 
+  {
+   "lastAccept": 1543662232, 
+   "pos": 140, 
+   "score": 88, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 88, 
+     "time": 1543662232
+    }
+   }, 
+   "team": "tessier-ashpool"
   }
  ], 
  "tasks": [
