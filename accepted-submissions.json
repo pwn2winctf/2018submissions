@@ -39,7 +39,7 @@
   {
    "lastAccept": 1543637182, 
    "pos": 2, 
-   "score": 1561, 
+   "score": 1540, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 98, 
@@ -58,7 +58,7 @@
      "time": 1543637182
     }, 
     "russian_polygons": {
-     "points": 474, 
+     "points": 453, 
      "time": 1543610690
     }, 
     "sum": {
@@ -71,7 +71,7 @@
   {
    "lastAccept": 1543644913, 
    "pos": 3, 
-   "score": 1561, 
+   "score": 1540, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 98, 
@@ -86,7 +86,7 @@
      "time": 1543620592
     }, 
     "russian_polygons": {
-     "points": 474, 
+     "points": 453, 
      "time": 1543644913
     }, 
     "sum": {
@@ -221,8 +221,36 @@
    "team": "0x00C0FFEE"
   }, 
   {
-   "lastAccept": 1543605989, 
+   "lastAccept": 1543646496, 
    "pos": 8, 
+   "score": 1146, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 98, 
+     "time": 1543592917
+    }, 
+    "bavarian_hierarchy": {
+     "points": 326, 
+     "time": 1543646411
+    }, 
+    "g00d_b0y": {
+     "points": 141, 
+     "time": 1543592831
+    }, 
+    "russian_polygons": {
+     "points": 453, 
+     "time": 1543646496
+    }, 
+    "sum": {
+     "points": 128, 
+     "time": 1543597631
+    }
+   }, 
+   "team": "HTsP"
+  }, 
+  {
+   "lastAccept": 1543605989, 
+   "pos": 9, 
    "score": 1113, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -250,7 +278,7 @@
   }, 
   {
    "lastAccept": 1543645017, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 1087, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -278,7 +306,7 @@
   }, 
   {
    "lastAccept": 1543637962, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 992, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -298,7 +326,7 @@
   }, 
   {
    "lastAccept": 1543620317, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 946, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -322,7 +350,7 @@
   }, 
   {
    "lastAccept": 1543620101, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 802, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -346,7 +374,7 @@
   }, 
   {
    "lastAccept": 1543626885, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 802, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -370,7 +398,7 @@
   }, 
   {
    "lastAccept": 1543637437, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 802, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -394,7 +422,7 @@
   }, 
   {
    "lastAccept": 1543605500, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 787, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -418,7 +446,7 @@
   }, 
   {
    "lastAccept": 1543612441, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 787, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -442,7 +470,7 @@
   }, 
   {
    "lastAccept": 1543625556, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 761, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -466,7 +494,7 @@
   }, 
   {
    "lastAccept": 1543601852, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 693, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -490,7 +518,7 @@
   }, 
   {
    "lastAccept": 1543611392, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 693, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -514,7 +542,7 @@
   }, 
   {
    "lastAccept": 1543614507, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 693, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -538,7 +566,7 @@
   }, 
   {
    "lastAccept": 1543623910, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 693, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -559,30 +587,6 @@
     }
    }, 
    "team": "NYUSEC"
-  }, 
-  {
-   "lastAccept": 1543646411, 
-   "pos": 22, 
-   "score": 693, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 98, 
-     "time": 1543592917
-    }, 
-    "bavarian_hierarchy": {
-     "points": 326, 
-     "time": 1543646411
-    }, 
-    "g00d_b0y": {
-     "points": 141, 
-     "time": 1543592831
-    }, 
-    "sum": {
-     "points": 128, 
-     "time": 1543597631
-    }
-   }, 
-   "team": "HTsP"
   }, 
   {
    "lastAccept": 1543622164, 
