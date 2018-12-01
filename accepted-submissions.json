@@ -39,7 +39,7 @@
   {
    "lastAccept": 1543637182, 
    "pos": 2, 
-   "score": 1606, 
+   "score": 1580, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 98, 
@@ -58,7 +58,7 @@
      "time": 1543637182
     }, 
     "russian_polygons": {
-     "points": 500, 
+     "points": 474, 
      "time": 1543610690
     }, 
     "sum": {
@@ -69,8 +69,40 @@
    "team": "Kernel Sanders"
   }, 
   {
-   "lastAccept": 1543623294, 
+   "lastAccept": 1543644913, 
    "pos": 3, 
+   "score": 1568, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 98, 
+     "time": 1543620718
+    }, 
+    "bavarian_hierarchy": {
+     "points": 333, 
+     "time": 1543627485
+    }, 
+    "g00d_b0y": {
+     "points": 141, 
+     "time": 1543620592
+    }, 
+    "russian_polygons": {
+     "points": 474, 
+     "time": 1543644913
+    }, 
+    "sum": {
+     "points": 128, 
+     "time": 1543620933
+    }, 
+    "ultramegapolyglot": {
+     "points": 394, 
+     "time": 1543640578
+    }
+   }, 
+   "team": "Forbes"
+  }, 
+  {
+   "lastAccept": 1543623294, 
+   "pos": 4, 
    "score": 1514, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -102,7 +134,7 @@
   }, 
   {
    "lastAccept": 1543628212, 
-   "pos": 4, 
+   "pos": 5, 
    "score": 1500, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -134,7 +166,7 @@
   }, 
   {
    "lastAccept": 1543618501, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 1273, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -162,7 +194,7 @@
   }, 
   {
    "lastAccept": 1543626757, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 1200, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -190,7 +222,7 @@
   }, 
   {
    "lastAccept": 1543605989, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 1120, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -215,34 +247,6 @@
     }
    }, 
    "team": "securisecctf"
-  }, 
-  {
-   "lastAccept": 1543640578, 
-   "pos": 8, 
-   "score": 1094, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 98, 
-     "time": 1543620718
-    }, 
-    "bavarian_hierarchy": {
-     "points": 333, 
-     "time": 1543627485
-    }, 
-    "g00d_b0y": {
-     "points": 141, 
-     "time": 1543620592
-    }, 
-    "sum": {
-     "points": 128, 
-     "time": 1543620933
-    }, 
-    "ultramegapolyglot": {
-     "points": 394, 
-     "time": 1543640578
-    }
-   }, 
-   "team": "Forbes"
   }, 
   {
    "lastAccept": 1543637962, 
