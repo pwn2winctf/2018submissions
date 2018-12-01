@@ -81,8 +81,44 @@
    "team": "GooseCTF"
   }, 
   {
-   "lastAccept": 1543644913, 
+   "lastAccept": 1543668652, 
    "pos": 3, 
+   "score": 1833, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 84, 
+     "time": 1543592788
+    }, 
+    "bavarian_hierarchy": {
+     "points": 303, 
+     "time": 1543606267
+    }, 
+    "g00d_b0y": {
+     "points": 129, 
+     "time": 1543592332
+    }, 
+    "minishell": {
+     "points": 347, 
+     "time": 1543628212
+    }, 
+    "sum": {
+     "points": 113, 
+     "time": 1543597063
+    }, 
+    "too_slow": {
+     "points": 474, 
+     "time": 1543668652
+    }, 
+    "ultramegapolyglot": {
+     "points": 383, 
+     "time": 1543612187
+    }
+   }, 
+   "team": "The Wind Warriors"
+  }, 
+  {
+   "lastAccept": 1543644913, 
+   "pos": 4, 
    "score": 1406, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -114,7 +150,7 @@
   }, 
   {
    "lastAccept": 1543653635, 
-   "pos": 4, 
+   "pos": 5, 
    "score": 1406, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -146,7 +182,7 @@
   }, 
   {
    "lastAccept": 1543637182, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 1370, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -178,7 +214,7 @@
   }, 
   {
    "lastAccept": 1543656913, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 1370, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -209,41 +245,9 @@
    "team": "HTsP"
   }, 
   {
-   "lastAccept": 1543628212, 
-   "pos": 7, 
-   "score": 1359, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 84, 
-     "time": 1543592788
-    }, 
-    "bavarian_hierarchy": {
-     "points": 303, 
-     "time": 1543606267
-    }, 
-    "g00d_b0y": {
-     "points": 129, 
-     "time": 1543592332
-    }, 
-    "minishell": {
-     "points": 347, 
-     "time": 1543628212
-    }, 
-    "sum": {
-     "points": 113, 
-     "time": 1543597063
-    }, 
-    "ultramegapolyglot": {
-     "points": 383, 
-     "time": 1543612187
-    }
-   }, 
-   "team": "The Wind Warriors"
-  }, 
-  {
    "lastAccept": 1543618501, 
    "pos": 8, 
-   "score": 1173, 
+   "score": 1147, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 84, 
@@ -262,7 +266,7 @@
      "time": 1543612004
     }, 
     "too_slow": {
-     "points": 500, 
+     "points": 474, 
      "time": 1543618007
     }
    }, 
