@@ -3,7 +3,7 @@
   {
    "lastAccept": 1543619363, 
    "pos": 1, 
-   "score": 1974, 
+   "score": 1960, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 101, 
@@ -30,7 +30,7 @@
      "time": 1543593837
     }, 
     "ultramegapolyglot": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543619363
     }
    }, 
@@ -71,7 +71,7 @@
   {
    "lastAccept": 1543623294, 
    "pos": 3, 
-   "score": 1553, 
+   "score": 1539, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 101, 
@@ -94,7 +94,7 @@
      "time": 1543601724
     }, 
     "ultramegapolyglot": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543601385
     }
    }, 
@@ -103,7 +103,7 @@
   {
    "lastAccept": 1543628212, 
    "pos": 4, 
-   "score": 1539, 
+   "score": 1525, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 101, 
@@ -126,7 +126,7 @@
      "time": 1543597063
     }, 
     "ultramegapolyglot": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543612187
     }
    }, 
@@ -217,8 +217,36 @@
    "team": "securisecctf"
   }, 
   {
-   "lastAccept": 1543637962, 
+   "lastAccept": 1543640578, 
    "pos": 8, 
+   "score": 1119, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 101, 
+     "time": 1543620718
+    }, 
+    "bavarian_hierarchy": {
+     "points": 340, 
+     "time": 1543627485
+    }, 
+    "g00d_b0y": {
+     "points": 143, 
+     "time": 1543620592
+    }, 
+    "sum": {
+     "points": 129, 
+     "time": 1543620933
+    }, 
+    "ultramegapolyglot": {
+     "points": 406, 
+     "time": 1543640578
+    }
+   }, 
+   "team": "Forbes"
+  }, 
+  {
+   "lastAccept": 1543637962, 
+   "pos": 9, 
    "score": 1007, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -238,8 +266,8 @@
   }, 
   {
    "lastAccept": 1543620317, 
-   "pos": 9, 
-   "score": 990, 
+   "pos": 10, 
+   "score": 976, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 101, 
@@ -254,7 +282,7 @@
      "time": 1543598303
     }, 
     "ultramegapolyglot": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543617204
     }
    }, 
@@ -262,7 +290,7 @@
   }, 
   {
    "lastAccept": 1543620101, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 808, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -286,7 +314,7 @@
   }, 
   {
    "lastAccept": 1543626885, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 808, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -310,7 +338,7 @@
   }, 
   {
    "lastAccept": 1543637437, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 808, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -334,7 +362,7 @@
   }, 
   {
    "lastAccept": 1543605500, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 793, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -358,7 +386,7 @@
   }, 
   {
    "lastAccept": 1543612441, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 793, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -382,8 +410,8 @@
   }, 
   {
    "lastAccept": 1543625556, 
-   "pos": 15, 
-   "score": 793, 
+   "pos": 16, 
+   "score": 779, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 101, 
@@ -398,7 +426,7 @@
      "time": 1543607982
     }, 
     "ultramegapolyglot": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543625556
     }
    }, 
@@ -406,7 +434,7 @@
   }, 
   {
    "lastAccept": 1543601852, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 713, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -430,7 +458,7 @@
   }, 
   {
    "lastAccept": 1543611392, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 713, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -454,7 +482,7 @@
   }, 
   {
    "lastAccept": 1543614507, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 713, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -478,7 +506,7 @@
   }, 
   {
    "lastAccept": 1543623910, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 713, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -499,30 +527,6 @@
     }
    }, 
    "team": "NYUSEC"
-  }, 
-  {
-   "lastAccept": 1543627485, 
-   "pos": 20, 
-   "score": 713, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 101, 
-     "time": 1543620718
-    }, 
-    "bavarian_hierarchy": {
-     "points": 340, 
-     "time": 1543627485
-    }, 
-    "g00d_b0y": {
-     "points": 143, 
-     "time": 1543620592
-    }, 
-    "sum": {
-     "points": 129, 
-     "time": 1543620933
-    }
-   }, 
-   "team": "Forbes"
   }, 
   {
    "lastAccept": 1543622164, 
