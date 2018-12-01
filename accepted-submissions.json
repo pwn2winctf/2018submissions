@@ -3059,6 +3059,18 @@
     }
    }, 
    "team": "0xEvansBot"
+  }, 
+  {
+   "lastAccept": 1543687677, 
+   "pos": 154, 
+   "score": 77, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 77, 
+     "time": 1543687677
+    }
+   }, 
+   "team": "Brotinho"
   }
  ], 
  "tasks": [
