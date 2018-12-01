@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1543666743, 
+   "lastAccept": 1543675234, 
    "pos": 1, 
-   "score": 2618, 
+   "score": 3001, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 83, 
@@ -32,6 +32,10 @@
     "minishell": {
      "points": 347, 
      "time": 1543610671
+    }, 
+    "russian_polygons": {
+     "points": 383, 
+     "time": 1543675234
     }, 
     "sum": {
      "points": 111, 
@@ -151,7 +155,7 @@
   {
    "lastAccept": 1543644913, 
    "pos": 5, 
-   "score": 1377, 
+   "score": 1366, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 83, 
@@ -166,7 +170,7 @@
      "time": 1543620592
     }, 
     "russian_polygons": {
-     "points": 394, 
+     "points": 383, 
      "time": 1543644913
     }, 
     "sum": {
@@ -183,7 +187,7 @@
   {
    "lastAccept": 1543653635, 
    "pos": 6, 
-   "score": 1377, 
+   "score": 1366, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 83, 
@@ -198,7 +202,7 @@
      "time": 1543601852
     }, 
     "russian_polygons": {
-     "points": 394, 
+     "points": 383, 
      "time": 1543649133
     }, 
     "sum": {
@@ -213,72 +217,8 @@
    "team": "scanhex team"
   }, 
   {
-   "lastAccept": 1543637182, 
-   "pos": 7, 
-   "score": 1341, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 83, 
-     "time": 1543593922
-    }, 
-    "bavarian_hierarchy": {
-     "points": 279, 
-     "time": 1543604393
-    }, 
-    "g00d_b0y": {
-     "points": 127, 
-     "time": 1543597868
-    }, 
-    "minishell": {
-     "points": 347, 
-     "time": 1543637182
-    }, 
-    "russian_polygons": {
-     "points": 394, 
-     "time": 1543610690
-    }, 
-    "sum": {
-     "points": 111, 
-     "time": 1543594343
-    }
-   }, 
-   "team": "Kernel Sanders"
-  }, 
-  {
-   "lastAccept": 1543656913, 
-   "pos": 8, 
-   "score": 1341, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 83, 
-     "time": 1543592917
-    }, 
-    "bavarian_hierarchy": {
-     "points": 279, 
-     "time": 1543646411
-    }, 
-    "g00d_b0y": {
-     "points": 127, 
-     "time": 1543592831
-    }, 
-    "minishell": {
-     "points": 347, 
-     "time": 1543656913
-    }, 
-    "russian_polygons": {
-     "points": 394, 
-     "time": 1543646496
-    }, 
-    "sum": {
-     "points": 111, 
-     "time": 1543597631
-    }
-   }, 
-   "team": "HTsP"
-  }, 
-  {
    "lastAccept": 1543673488, 
-   "pos": 9, 
+   "pos": 7, 
    "score": 1341, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -307,6 +247,70 @@
     }
    }, 
    "team": "FireShell"
+  }, 
+  {
+   "lastAccept": 1543637182, 
+   "pos": 8, 
+   "score": 1330, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 83, 
+     "time": 1543593922
+    }, 
+    "bavarian_hierarchy": {
+     "points": 279, 
+     "time": 1543604393
+    }, 
+    "g00d_b0y": {
+     "points": 127, 
+     "time": 1543597868
+    }, 
+    "minishell": {
+     "points": 347, 
+     "time": 1543637182
+    }, 
+    "russian_polygons": {
+     "points": 383, 
+     "time": 1543610690
+    }, 
+    "sum": {
+     "points": 111, 
+     "time": 1543594343
+    }
+   }, 
+   "team": "Kernel Sanders"
+  }, 
+  {
+   "lastAccept": 1543656913, 
+   "pos": 9, 
+   "score": 1330, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 83, 
+     "time": 1543592917
+    }, 
+    "bavarian_hierarchy": {
+     "points": 279, 
+     "time": 1543646411
+    }, 
+    "g00d_b0y": {
+     "points": 127, 
+     "time": 1543592831
+    }, 
+    "minishell": {
+     "points": 347, 
+     "time": 1543656913
+    }, 
+    "russian_polygons": {
+     "points": 383, 
+     "time": 1543646496
+    }, 
+    "sum": {
+     "points": 111, 
+     "time": 1543597631
+    }
+   }, 
+   "team": "HTsP"
   }, 
   {
    "lastAccept": 1543661113, 
@@ -393,92 +397,8 @@
    "team": "securisecctf"
   }, 
   {
-   "lastAccept": 1543652037, 
-   "pos": 13, 
-   "score": 994, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 83, 
-     "time": 1543593599
-    }, 
-    "bavarian_hierarchy": {
-     "points": 279, 
-     "time": 1543614507
-    }, 
-    "g00d_b0y": {
-     "points": 127, 
-     "time": 1543593451
-    }, 
-    "russian_polygons": {
-     "points": 394, 
-     "time": 1543652037
-    }, 
-    "sum": {
-     "points": 111, 
-     "time": 1543593854
-    }
-   }, 
-   "team": "318br"
-  }, 
-  {
-   "lastAccept": 1543654628, 
-   "pos": 14, 
-   "score": 994, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 83, 
-     "time": 1543597765
-    }, 
-    "bavarian_hierarchy": {
-     "points": 279, 
-     "time": 1543602880
-    }, 
-    "g00d_b0y": {
-     "points": 127, 
-     "time": 1543649509
-    }, 
-    "russian_polygons": {
-     "points": 394, 
-     "time": 1543654628
-    }, 
-    "sum": {
-     "points": 111, 
-     "time": 1543600148
-    }
-   }, 
-   "team": "xCmq0CyNiN"
-  }, 
-  {
-   "lastAccept": 1543665430, 
-   "pos": 15, 
-   "score": 994, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 83, 
-     "time": 1543640832
-    }, 
-    "bavarian_hierarchy": {
-     "points": 279, 
-     "time": 1543652868
-    }, 
-    "g00d_b0y": {
-     "points": 127, 
-     "time": 1543654258
-    }, 
-    "russian_polygons": {
-     "points": 394, 
-     "time": 1543665430
-    }, 
-    "sum": {
-     "points": 111, 
-     "time": 1543651390
-    }
-   }, 
-   "team": "SuperNewbie"
-  }, 
-  {
    "lastAccept": 1543672833, 
-   "pos": 16, 
+   "pos": 13, 
    "score": 994, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -503,6 +423,90 @@
     }
    }, 
    "team": "blue hens"
+  }, 
+  {
+   "lastAccept": 1543652037, 
+   "pos": 14, 
+   "score": 983, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 83, 
+     "time": 1543593599
+    }, 
+    "bavarian_hierarchy": {
+     "points": 279, 
+     "time": 1543614507
+    }, 
+    "g00d_b0y": {
+     "points": 127, 
+     "time": 1543593451
+    }, 
+    "russian_polygons": {
+     "points": 383, 
+     "time": 1543652037
+    }, 
+    "sum": {
+     "points": 111, 
+     "time": 1543593854
+    }
+   }, 
+   "team": "318br"
+  }, 
+  {
+   "lastAccept": 1543654628, 
+   "pos": 15, 
+   "score": 983, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 83, 
+     "time": 1543597765
+    }, 
+    "bavarian_hierarchy": {
+     "points": 279, 
+     "time": 1543602880
+    }, 
+    "g00d_b0y": {
+     "points": 127, 
+     "time": 1543649509
+    }, 
+    "russian_polygons": {
+     "points": 383, 
+     "time": 1543654628
+    }, 
+    "sum": {
+     "points": 111, 
+     "time": 1543600148
+    }
+   }, 
+   "team": "xCmq0CyNiN"
+  }, 
+  {
+   "lastAccept": 1543665430, 
+   "pos": 16, 
+   "score": 983, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 83, 
+     "time": 1543640832
+    }, 
+    "bavarian_hierarchy": {
+     "points": 279, 
+     "time": 1543652868
+    }, 
+    "g00d_b0y": {
+     "points": 127, 
+     "time": 1543654258
+    }, 
+    "russian_polygons": {
+     "points": 383, 
+     "time": 1543665430
+    }, 
+    "sum": {
+     "points": 111, 
+     "time": 1543651390
+    }
+   }, 
+   "team": "SuperNewbie"
   }, 
   {
    "lastAccept": 1543670193, 
