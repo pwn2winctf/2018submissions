@@ -117,8 +117,40 @@
    "team": "The Wind Warriors"
   }, 
   {
-   "lastAccept": 1543644913, 
+   "lastAccept": 1543670644, 
    "pos": 4, 
+   "score": 1645, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 84, 
+     "time": 1543592768
+    }, 
+    "g00d_b0y": {
+     "points": 127, 
+     "time": 1543618501
+    }, 
+    "mdfm_flag_verifier": {
+     "points": 500, 
+     "time": 1543670644
+    }, 
+    "minishell": {
+     "points": 347, 
+     "time": 1543611018
+    }, 
+    "sum": {
+     "points": 113, 
+     "time": 1543612004
+    }, 
+    "too_slow": {
+     "points": 474, 
+     "time": 1543618007
+    }
+   }, 
+   "team": "Bushwhackers"
+  }, 
+  {
+   "lastAccept": 1543644913, 
+   "pos": 5, 
    "score": 1399, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -150,7 +182,7 @@
   }, 
   {
    "lastAccept": 1543653635, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 1399, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -182,7 +214,7 @@
   }, 
   {
    "lastAccept": 1543637182, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 1363, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -214,7 +246,7 @@
   }, 
   {
    "lastAccept": 1543656913, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 1363, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -243,34 +275,6 @@
     }
    }, 
    "team": "HTsP"
-  }, 
-  {
-   "lastAccept": 1543618501, 
-   "pos": 8, 
-   "score": 1145, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 84, 
-     "time": 1543592768
-    }, 
-    "g00d_b0y": {
-     "points": 127, 
-     "time": 1543618501
-    }, 
-    "minishell": {
-     "points": 347, 
-     "time": 1543611018
-    }, 
-    "sum": {
-     "points": 113, 
-     "time": 1543612004
-    }, 
-    "too_slow": {
-     "points": 474, 
-     "time": 1543618007
-    }
-   }, 
-   "team": "Bushwhackers"
   }, 
   {
    "lastAccept": 1543661113, 
@@ -2850,6 +2854,7 @@
   "super_storage", 
   "too_slow", 
   "emetacrazy", 
-  "message_board_pt1"
+  "message_board_pt1", 
+  "mdfm_flag_verifier"
  ]
 }
