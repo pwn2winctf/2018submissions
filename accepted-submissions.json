@@ -3175,6 +3175,18 @@
     }
    }, 
    "team": "11111111"
+  }, 
+  {
+   "lastAccept": 1543700768, 
+   "pos": 158, 
+   "score": 74, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 74, 
+     "time": 1543700768
+    }
+   }, 
+   "team": "perfect blue"
   }
  ], 
  "tasks": [
