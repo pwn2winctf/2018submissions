@@ -153,8 +153,40 @@
    "team": "Bushwhackers"
   }, 
   {
-   "lastAccept": 1543644913, 
+   "lastAccept": 1543676296, 
    "pos": 5, 
+   "score": 1558, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 81, 
+     "time": 1543595065
+    }, 
+    "bergs_club": {
+     "points": 420, 
+     "time": 1543626885
+    }, 
+    "g00d_b0y": {
+     "points": 126, 
+     "time": 1543598434
+    }, 
+    "minishell": {
+     "points": 347, 
+     "time": 1543661113
+    }, 
+    "sum": {
+     "points": 110, 
+     "time": 1543598987
+    }, 
+    "super_storage": {
+     "points": 474, 
+     "time": 1543676296
+    }
+   }, 
+   "team": "TenDollar"
+  }, 
+  {
+   "lastAccept": 1543644913, 
+   "pos": 6, 
    "score": 1352, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -186,7 +218,7 @@
   }, 
   {
    "lastAccept": 1543653635, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 1352, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -218,7 +250,7 @@
   }, 
   {
    "lastAccept": 1543673488, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 1337, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -250,7 +282,7 @@
   }, 
   {
    "lastAccept": 1543637182, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 1316, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -282,7 +314,7 @@
   }, 
   {
    "lastAccept": 1543656913, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 1316, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -311,34 +343,6 @@
     }
    }, 
    "team": "HTsP"
-  }, 
-  {
-   "lastAccept": 1543661113, 
-   "pos": 10, 
-   "score": 1084, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 81, 
-     "time": 1543595065
-    }, 
-    "bergs_club": {
-     "points": 420, 
-     "time": 1543626885
-    }, 
-    "g00d_b0y": {
-     "points": 126, 
-     "time": 1543598434
-    }, 
-    "minishell": {
-     "points": 347, 
-     "time": 1543661113
-    }, 
-    "sum": {
-     "points": 110, 
-     "time": 1543598987
-    }
-   }, 
-   "team": "TenDollar"
   }, 
   {
    "lastAccept": 1543626757, 
@@ -539,7 +543,7 @@
   {
    "lastAccept": 1543637962, 
    "pos": 18, 
-   "score": 928, 
+   "score": 902, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 81, 
@@ -550,7 +554,7 @@
      "time": 1543603343
     }, 
     "super_storage": {
-     "points": 500, 
+     "points": 474, 
      "time": 1543611033
     }
    }, 
