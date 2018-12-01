@@ -2795,6 +2795,18 @@
     }
    }, 
    "team": "LaDelikataj"
+  }, 
+  {
+   "lastAccept": 1543667654, 
+   "pos": 145, 
+   "score": 84, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 84, 
+     "time": 1543667654
+    }
+   }, 
+   "team": "sudo maso"
   }
  ], 
  "tasks": [
