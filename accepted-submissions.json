@@ -1,8 +1,44 @@
 {
  "standings": [
   {
-   "lastAccept": 1543619363, 
+   "lastAccept": 1543647266, 
    "pos": 1, 
+   "score": 2006, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 98, 
+     "time": 1543593930
+    }, 
+    "bavarian_hierarchy": {
+     "points": 326, 
+     "time": 1543623294
+    }, 
+    "g00d_b0y": {
+     "points": 141, 
+     "time": 1543592806
+    }, 
+    "gcm": {
+     "points": 420, 
+     "time": 1543618245
+    }, 
+    "message_board_pt1": {
+     "points": 500, 
+     "time": 1543647266
+    }, 
+    "sum": {
+     "points": 127, 
+     "time": 1543601724
+    }, 
+    "ultramegapolyglot": {
+     "points": 394, 
+     "time": 1543601385
+    }
+   }, 
+   "team": "GooseCTF"
+  }, 
+  {
+   "lastAccept": 1543619363, 
+   "pos": 2, 
    "score": 1915, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -38,7 +74,7 @@
   }, 
   {
    "lastAccept": 1543637182, 
-   "pos": 2, 
+   "pos": 3, 
    "score": 1539, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -70,7 +106,7 @@
   }, 
   {
    "lastAccept": 1543644913, 
-   "pos": 3, 
+   "pos": 4, 
    "score": 1539, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -99,38 +135,6 @@
     }
    }, 
    "team": "Forbes"
-  }, 
-  {
-   "lastAccept": 1543623294, 
-   "pos": 4, 
-   "score": 1506, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 98, 
-     "time": 1543593930
-    }, 
-    "bavarian_hierarchy": {
-     "points": 326, 
-     "time": 1543623294
-    }, 
-    "g00d_b0y": {
-     "points": 141, 
-     "time": 1543592806
-    }, 
-    "gcm": {
-     "points": 420, 
-     "time": 1543618245
-    }, 
-    "sum": {
-     "points": 127, 
-     "time": 1543601724
-    }, 
-    "ultramegapolyglot": {
-     "points": 394, 
-     "time": 1543601385
-    }
-   }, 
-   "team": "GooseCTF"
   }, 
   {
    "lastAccept": 1543628212, 
@@ -2465,6 +2469,7 @@
   "russian_polygons", 
   "super_storage", 
   "too_slow", 
-  "emetacrazy"
+  "emetacrazy", 
+  "message_board_pt1"
  ]
 }
