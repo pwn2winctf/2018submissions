@@ -98,5 +98,9 @@
  {
   "msg": "Too Slow was updated with a link to the emulators and RISC-V Toolchain used to build the challenge.", 
   "time": 1543679614
+ }, 
+ {
+  "msg": "Inherit the Stars was updated with a link to the MIPS Toolchain used to build the challenge.", 
+  "time": 1543680972
  }
 ]
