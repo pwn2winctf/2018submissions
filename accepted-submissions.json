@@ -2963,6 +2963,18 @@
     }
    }, 
    "team": "0xEvansBot"
+  }, 
+  {
+   "lastAccept": 1543680650, 
+   "pos": 150, 
+   "score": 80, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 80, 
+     "time": 1543680650
+    }
+   }, 
+   "team": "DireCTF"
   }
  ], 
  "tasks": [
