@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1543653138, 
+   "lastAccept": 1543666743, 
    "pos": 1, 
-   "score": 2195, 
+   "score": 2669, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 86, 
@@ -25,6 +25,10 @@
      "points": 406, 
      "time": 1543653138
     }, 
+    "message_board_pt1": {
+     "points": 474, 
+     "time": 1543666743
+    }, 
     "minishell": {
      "points": 347, 
      "time": 1543610671
@@ -43,7 +47,7 @@
   {
    "lastAccept": 1543647266, 
    "pos": 2, 
-   "score": 1928, 
+   "score": 1902, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 86, 
@@ -62,7 +66,7 @@
      "time": 1543618245
     }, 
     "message_board_pt1": {
-     "points": 500, 
+     "points": 474, 
      "time": 1543647266
     }, 
     "sum": {
