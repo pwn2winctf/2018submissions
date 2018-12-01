@@ -27,5 +27,10 @@
  {
   "msg": "Sorry, there was an unexpected bypass on Trick and Treat that was working in the browser but not in the bot. Now it's working on both. Please retry your payloads.",
   "time": 1543621857
+ },
+ {
+  "msg": "gJqkgWGAaKN69Z83qjy53Zgiyr35F/eudJeZV9jsuVp8o6jP7+Df9/gc06+Pi7qm5xcGHgFRnfPmUdB1X3Blk0WEFBK0W5y3W5xBZOmmUZ8vy8JrsxAm625Ty7lvNPO42s4r1XzYLwA=",
+  "time": 1543623320,
+  "to": "GooseCTF"
  }
 ]
