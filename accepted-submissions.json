@@ -3,7 +3,7 @@
   {
    "lastAccept": 1543675234, 
    "pos": 1, 
-   "score": 2902, 
+   "score": 2888, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 77, 
@@ -14,7 +14,7 @@
      "time": 1543603146
     }, 
     "bergs_club": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543603245
     }, 
     "g00d_b0y": {
@@ -191,14 +191,14 @@
   {
    "lastAccept": 1543676296, 
    "pos": 6, 
-   "score": 1514, 
+   "score": 1500, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 77, 
      "time": 1543595065
     }, 
     "bergs_club": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543626885
     }, 
     "g00d_b0y": {
@@ -313,8 +313,40 @@
    "team": "securisecctf"
   }, 
   {
-   "lastAccept": 1543673488, 
+   "lastAccept": 1543686116, 
    "pos": 10, 
+   "score": 1318, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 77, 
+     "time": 1543592936
+    }, 
+    "bavarian_hierarchy": {
+     "points": 271, 
+     "time": 1543670193
+    }, 
+    "bergs_club": {
+     "points": 406, 
+     "time": 1543686116
+    }, 
+    "g00d_b0y": {
+     "points": 123, 
+     "time": 1543656438
+    }, 
+    "minishell": {
+     "points": 333, 
+     "time": 1543656274
+    }, 
+    "sum": {
+     "points": 108, 
+     "time": 1543594845
+    }
+   }, 
+   "team": "spritzers"
+  }, 
+  {
+   "lastAccept": 1543673488, 
+   "pos": 11, 
    "score": 1306, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -346,7 +378,7 @@
   }, 
   {
    "lastAccept": 1543644913, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 1281, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -378,7 +410,7 @@
   }, 
   {
    "lastAccept": 1543653635, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 1281, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -410,7 +442,7 @@
   }, 
   {
    "lastAccept": 1543637182, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 1259, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -442,15 +474,15 @@
   }, 
   {
    "lastAccept": 1543678047, 
-   "pos": 14, 
-   "score": 1083, 
+   "pos": 15, 
+   "score": 1069, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 77, 
      "time": 1543594484
     }, 
     "bergs_club": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543637437
     }, 
     "g00d_b0y": {
@@ -470,15 +502,15 @@
   }, 
   {
    "lastAccept": 1543676999, 
-   "pos": 15, 
-   "score": 1061, 
+   "pos": 16, 
+   "score": 1047, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 77, 
      "time": 1543592633
     }, 
     "bergs_club": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543615705
     }, 
     "g00d_b0y": {
@@ -498,7 +530,7 @@
   }, 
   {
    "lastAccept": 1543679200, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 993, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -522,7 +554,7 @@
   }, 
   {
    "lastAccept": 1543672833, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 973, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -550,7 +582,7 @@
   }, 
   {
    "lastAccept": 1543652037, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 926, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -578,7 +610,7 @@
   }, 
   {
    "lastAccept": 1543654628, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 926, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -606,7 +638,7 @@
   }, 
   {
    "lastAccept": 1543665430, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 926, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -634,7 +666,7 @@
   }, 
   {
    "lastAccept": 1543680459, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 926, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -659,34 +691,6 @@
     }
    }, 
    "team": "tessier-ashpool"
-  }, 
-  {
-   "lastAccept": 1543670193, 
-   "pos": 22, 
-   "score": 912, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 77, 
-     "time": 1543592936
-    }, 
-    "bavarian_hierarchy": {
-     "points": 271, 
-     "time": 1543670193
-    }, 
-    "g00d_b0y": {
-     "points": 123, 
-     "time": 1543656438
-    }, 
-    "minishell": {
-     "points": 333, 
-     "time": 1543656274
-    }, 
-    "sum": {
-     "points": 108, 
-     "time": 1543594845
-    }
-   }, 
-   "team": "spritzers"
   }, 
   {
    "lastAccept": 1543678020, 
@@ -763,14 +767,14 @@
   {
    "lastAccept": 1543659274, 
    "pos": 26, 
-   "score": 728, 
+   "score": 714, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 77, 
      "time": 1543656726
     }, 
     "bergs_club": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543659274
     }, 
     "g00d_b0y": {
