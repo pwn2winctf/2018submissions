@@ -1,178 +1,183 @@
 [
  {
-  "msg": "Wow! The scoreboard is on fire! Hope you are all having fun", 
+  "msg": "Wow! The scoreboard is on fire! Hope you are all having fun",
   "time": 1543597296
- }, 
+ },
  {
-  "msg": "The description for Attack Step was updated", 
+  "msg": "The description for Attack Step was updated",
   "time": 1543599559
- }, 
+ },
  {
-  "msg": "The example for Bavarian Hierarchy was updated!", 
+  "msg": "The example for Bavarian Hierarchy was updated!",
   "time": 1543599886
- }, 
+ },
  {
-  "msg": "We've added a minor comment on the 'U L T R A M E G A P O L Y G L O T' server, please check the update", 
+  "msg": "We've added a minor comment on the 'U L T R A M E G A P O L Y G L O T' server, please check the update",
   "time": 1543608899
- }, 
+ },
  {
-  "msg": "There was a small bug in the Trick or Treat challenge that is now fixed. If you think your payload should have worked you can ask @herrera (IRC) for confirmation.", 
+  "msg": "There was a small bug in the Trick or Treat challenge that is now fixed. If you think your payload should have worked you can ask @herrera (IRC) for confirmation.",
   "time": 1543610290
- }, 
+ },
  {
-  "msg": "qiX9ZL/m0X/b+gwc40OIHpNn5fSZXWA98i0OaTUHZBxnRg7pi/EIBIWu8edIO1NGzynyib9dcoE7Qqjb+mrZmmmHJ/dDicB1RoINrZSdnwr2BvZCBP55nUf975n+83hCsz0DdkM=", 
-  "time": 1543610812, 
+  "msg": "qiX9ZL/m0X/b+gwc40OIHpNn5fSZXWA98i0OaTUHZBxnRg7pi/EIBIWu8edIO1NGzynyib9dcoE7Qqjb+mrZmmmHJ/dDicB1RoINrZSdnwr2BvZCBP55nUf975n+83hCsz0DdkM=",
+  "time": 1543610812,
   "to": "Balsn"
- }, 
+ },
  {
-  "msg": "Sorry, there was an unexpected bypass on Trick and Treat that was working in the browser but not in the bot. Now it's working on both. Please retry your payloads.", 
+  "msg": "Sorry, there was an unexpected bypass on Trick and Treat that was working in the browser but not in the bot. Now it's working on both. Please retry your payloads.",
   "time": 1543621857
- }, 
+ },
  {
-  "msg": "gJqkgWGAaKN69Z83qjy53Zgiyr35F/eudJeZV9jsuVp8o6jP7+Df9/gc06+Pi7qm5xcGHgFRnfPmUdB1X3Blk0WEFBK0W5y3W5xBZOmmUZ8vy8JrsxAm625Ty7lvNPO42s4r1XzYLwA=", 
-  "time": 1543623320, 
+  "msg": "gJqkgWGAaKN69Z83qjy53Zgiyr35F/eudJeZV9jsuVp8o6jP7+Df9/gc06+Pi7qm5xcGHgFRnfPmUdB1X3Blk0WEFBK0W5y3W5xBZOmmUZ8vy8JrsxAm625Ty7lvNPO42s4r1XzYLwA=",
+  "time": 1543623320,
   "to": "GooseCTF"
- }, 
+ },
  {
-  "msg": "zwvmqQXxMunJo79o4XeEGPWlGKwsQQHzEdlPPhddkmoAXP9tGu87MasfGNQaOJVRcu87SFE/wIJkOhOEu92Mej2Z/3Yex4Qk3hZi5qjXIYdfr3F0rhEr2h3bXrP669WhjOCRmRQ=", 
-  "time": 1543624702, 
+  "msg": "zwvmqQXxMunJo79o4XeEGPWlGKwsQQHzEdlPPhddkmoAXP9tGu87MasfGNQaOJVRcu87SFE/wIJkOhOEu92Mej2Z/3Yex4Qk3hZi5qjXIYdfr3F0rhEr2h3bXrP669WhjOCRmRQ=",
+  "time": 1543624702,
   "to": "GooseCTF"
- }, 
+ },
  {
-  "msg": "qlKZ83LNVUmv8R9d80k8Vi9AGhIP4us/9jO/u83sLXF2Rek5sRg8Cys9NPBp74LefCwxaWNTA2SgXQJ0iKVOnneI1VUk5xWMh05bLv8X8V/4b87yJGI=", 
-  "time": 1543625215, 
+  "msg": "qlKZ83LNVUmv8R9d80k8Vi9AGhIP4us/9jO/u83sLXF2Rek5sRg8Cys9NPBp74LefCwxaWNTA2SgXQJ0iKVOnneI1VUk5xWMh05bLv8X8V/4b87yJGI=",
+  "time": 1543625215,
   "to": "GooseCTF"
- }, 
+ },
  {
-  "msg": "XKFllSC4XtM3CzTkRJRJeCrxEz9706ebDESkYYXvZyUh7atEED9SND/Em686peuEqixmAu2a9/oOUEv5bnQDhJ+AkID7oNt5T29eavxJBRU3oqtYsLhXWMR7kQDaaokyV7Eykh8=", 
-  "time": 1543628280, 
+  "msg": "XKFllSC4XtM3CzTkRJRJeCrxEz9706ebDESkYYXvZyUh7atEED9SND/Em686peuEqixmAu2a9/oOUEv5bnQDhJ+AkID7oNt5T29eavxJBRU3oqtYsLhXWMR7kQDaaokyV7Eykh8=",
+  "time": 1543628280,
   "to": "The Wind Warriors"
- }, 
+ },
  {
-  "msg": "ZQUZROnJs2yMd+107osxY4A4RGU8Jxu4uc5W8e6q7FUgqUQcBB9Z5S2/XWD5oZjKb+O4nevHFRTFQECNN+QpzUTTRPemrKr2fn49amMaOTVi8AhJm0xTHVlRdzmWIWyfEwCZHHc=", 
-  "time": 1543637258, 
+  "msg": "ZQUZROnJs2yMd+107osxY4A4RGU8Jxu4uc5W8e6q7FUgqUQcBB9Z5S2/XWD5oZjKb+O4nevHFRTFQECNN+QpzUTTRPemrKr2fn49amMaOTVi8AhJm0xTHVlRdzmWIWyfEwCZHHc=",
+  "time": 1543637258,
   "to": "Kernel Sanders"
- }, 
+ },
  {
-  "msg": "ObO9VCoZW9jQ4jHsaIbdXR2ovYhExsPPTqZK71JmKhhIwZExmYQYAxSW6zmOhsmsw/6YTvcTiMXysNEn+RDGxWw1jlFrNnSMks6LBbeHUMdnWP3Vy6iX9gSSHgKUMtvHGGtTybs=", 
-  "time": 1543644973, 
+  "msg": "ObO9VCoZW9jQ4jHsaIbdXR2ovYhExsPPTqZK71JmKhhIwZExmYQYAxSW6zmOhsmsw/6YTvcTiMXysNEn+RDGxWw1jlFrNnSMks6LBbeHUMdnWP3Vy6iX9gSSHgKUMtvHGGtTybs=",
+  "time": 1543644973,
   "to": "Forbes"
- }, 
+ },
  {
-  "msg": "nNvJq1vOV6eSjEVKOZwPfS57MSJNlW5ABwIG5v2b12RCGT4yf90qRU5MCROiDh/CVPQ1TBGumuLZmWJcKyrAZxKZ9idbwwmVI4do3soOUX5E0MJwfuC5vEHh6E6o2LTu7VIopD4=", 
-  "time": 1543653692, 
+  "msg": "nNvJq1vOV6eSjEVKOZwPfS57MSJNlW5ABwIG5v2b12RCGT4yf90qRU5MCROiDh/CVPQ1TBGumuLZmWJcKyrAZxKZ9idbwwmVI4do3soOUX5E0MJwfuC5vEHh6E6o2LTu7VIopD4=",
+  "time": 1543653692,
   "to": "scanhex team"
- }, 
+ },
  {
-  "msg": "jw/EXQR1usrC3r12MqL1IX3AuwCjjFoCzeDJh8FytwX8onX75i3WlRp60g8PB1sj9lzZnbrpRMw3nD9bi21BEgtVd5TBgmWcbCrG5SqESk7C4wC6phtDedgGKkMbD4r/eBccgQo=", 
-  "time": 1543656971, 
+  "msg": "jw/EXQR1usrC3r12MqL1IX3AuwCjjFoCzeDJh8FytwX8onX75i3WlRp60g8PB1sj9lzZnbrpRMw3nD9bi21BEgtVd5TBgmWcbCrG5SqESk7C4wC6phtDedgGKkMbD4r/eBccgQo=",
+  "time": 1543656971,
   "to": "HTsP"
- }, 
+ },
  {
-  "msg": "Inherit the Stars problem statement was misleading. The set of nodes matters, not just the amount of nodes. Please check the new statement.", 
+  "msg": "Inherit the Stars problem statement was misleading. The set of nodes matters, not just the amount of nodes. Please check the new statement.",
   "time": 1543660487
- }, 
+ },
  {
-  "msg": "Sorry, TPM 2.0's server is temporarily off for maintenance.", 
+  "msg": "Sorry, TPM 2.0's server is temporarily off for maintenance.",
   "time": 1543667628
- }, 
+ },
  {
-  "msg": "WeJ/K1lf8SxQZS1HQQzR0RL+58hmxQDC4ZidT5DvWFIFlygRIVlD4WXpqxCzQTzISxng9oS8PyQ1FmmOH4wO6KAz7mImGbqdDwe3iuckg0zWUSAmSHYNB59NwQbk6HYoyBVB2ZY=", 
-  "time": 1543673096, 
+  "msg": "WeJ/K1lf8SxQZS1HQQzR0RL+58hmxQDC4ZidT5DvWFIFlygRIVlD4WXpqxCzQTzISxng9oS8PyQ1FmmOH4wO6KAz7mImGbqdDwe3iuckg0zWUSAmSHYNB59NwQbk6HYoyBVB2ZY=",
+  "time": 1543673096,
   "to": "Bushwhackers"
- }, 
+ },
  {
-  "msg": "syiAVS2/hHMjQjBaNSbeKckKXQnvqzZOxX/8gRl2SWdGd5uDyfQ5iFBcs9aT7zc5xVqZTQvafNe8T6fnwFCVkpdPVxA16BgBql3XMXNbNayAYxrzNLh2ostIaeNts23HtMVjCbE=", 
-  "time": 1543673538, 
+  "msg": "syiAVS2/hHMjQjBaNSbeKckKXQnvqzZOxX/8gRl2SWdGd5uDyfQ5iFBcs9aT7zc5xVqZTQvafNe8T6fnwFCVkpdPVxA16BgBql3XMXNbNayAYxrzNLh2ostIaeNts23HtMVjCbE=",
+  "time": 1543673538,
   "to": "FireShell"
- }, 
+ },
  {
-  "msg": "TPM 2.0 is working fine, any problem, contact us!", 
+  "msg": "TPM 2.0 is working fine, any problem, contact us!",
   "time": 1543675512
- }, 
+ },
  {
-  "msg": "6AB2OI82WtKzlpINp7HM7cT861AHacBT/TVgZDPsmhDKZUtPrHtWeMn12Znp/9hjpacOgSnweQOLWgEiIpCr6DsjYuDFUzTN2KCjIJTAFQadnJ4NqoVs+Hx3VMUPjnYjuNiaKZo=", 
-  "time": 1543676366, 
+  "msg": "6AB2OI82WtKzlpINp7HM7cT861AHacBT/TVgZDPsmhDKZUtPrHtWeMn12Znp/9hjpacOgSnweQOLWgEiIpCr6DsjYuDFUzTN2KCjIJTAFQadnJ4NqoVs+Hx3VMUPjnYjuNiaKZo=",
+  "time": 1543676366,
   "to": "TenDollar"
- }, 
+ },
  {
-  "msg": "Too Slow was updated with a link to the emulators and RISC-V Toolchain used to build the challenge.", 
+  "msg": "Too Slow was updated with a link to the emulators and RISC-V Toolchain used to build the challenge.",
   "time": 1543679614
- }, 
+ },
  {
-  "msg": "Inherit the Stars was updated with a link to the MIPS Toolchain used to build the challenge.", 
+  "msg": "Inherit the Stars was updated with a link to the MIPS Toolchain used to build the challenge.",
   "time": 1543680972
- }, 
+ },
  {
-  "msg": "Zd/UfY3kjkqVIXbD5jbQ88Fsy8geY2IPnYyZtZvnQxWIORXkNqcc13ZHjhjxujo1LNaLVix5cR19DGaRvWlIJJlbUHN26ybHBTnGrMgdU6Zs4zhZPkamZSE7BB/EhQME/ePVc94Q", 
-  "time": 1543683537, 
+  "msg": "Zd/UfY3kjkqVIXbD5jbQ88Fsy8geY2IPnYyZtZvnQxWIORXkNqcc13ZHjhjxujo1LNaLVix5cR19DGaRvWlIJJlbUHN26ybHBTnGrMgdU6Zs4zhZPkamZSE7BB/EhQME/ePVc94Q",
+  "time": 1543683537,
   "to": "securisecctf"
- }, 
+ },
  {
-  "msg": "qIju2YOM6UKHjTHZUCxpdF/KBbSvBdYaxI8w00Xq3ElfhfFh0ojMHWXG+suT8RshftHQ+0yPQt0dprhlTNOqH68nQFAcGgfvbI2tfkAGcyPTHo8MAEW/R16f+7FU3GhVZK38PTEp", 
-  "time": 1543685909, 
+  "msg": "qIju2YOM6UKHjTHZUCxpdF/KBbSvBdYaxI8w00Xq3ElfhfFh0ojMHWXG+suT8RshftHQ+0yPQt0dprhlTNOqH68nQFAcGgfvbI2tfkAGcyPTHo8MAEW/R16f+7FU3GhVZK38PTEp",
+  "time": 1543685909,
   "to": "0x00C0FFEE"
- }, 
+ },
  {
-  "msg": "9AHaB3awyhb0bBLpoQUO4McgOYDyL7ttmfhaCn/9C1EMKDuXsRh/uQKx28x4bxgpwHq0d7X38/FI/F/Kj3hl5wwwaahsPD3gp1yBRnGG4kQBAhnqxE+CphgClBc4q1qjY97ylJRE", 
-  "time": 1543686153, 
+  "msg": "9AHaB3awyhb0bBLpoQUO4McgOYDyL7ttmfhaCn/9C1EMKDuXsRh/uQKx28x4bxgpwHq0d7X38/FI/F/Kj3hl5wwwaahsPD3gp1yBRnGG4kQBAhnqxE+CphgClBc4q1qjY97ylJRE",
+  "time": 1543686153,
   "to": "spritzers"
- }, 
+ },
  {
-  "msg": "TFEc1Vyhwe07izIJxAiQp/vGMi6AM8u+R1ROIoAS1Fm+RyJQN6GZik/aT0U7tjQvjvSwHl+V7LatFCYcpOF7EreOe05CPyoEuIaPOF+M7liU/TEUmgqbZDvscnyJ/pMwQlkP9r93", 
-  "time": 1543686276, 
+  "msg": "TFEc1Vyhwe07izIJxAiQp/vGMi6AM8u+R1ROIoAS1Fm+RyJQN6GZik/aT0U7tjQvjvSwHl+V7LatFCYcpOF7EreOe05CPyoEuIaPOF+M7liU/TEUmgqbZDvscnyJ/pMwQlkP9r93",
+  "time": 1543686276,
   "to": "justCatTheFish"
- }, 
+ },
  {
-  "msg": "I2pf/6V8PAq8pob1MS/l5+J0tfZ+tZjTxlIX13teQw+cNQV5nS/BLJ0IdBUDFNQVKZaS9iFsJUwZWZkDFIeXLGrrsDPFuiitZ87LFEO5qy80pwUra0wu5TvypwmRS68tm7EIJHbP", 
-  "time": 1543694661, 
+  "msg": "I2pf/6V8PAq8pob1MS/l5+J0tfZ+tZjTxlIX13teQw+cNQV5nS/BLJ0IdBUDFNQVKZaS9iFsJUwZWZkDFIeXLGrrsDPFuiitZ87LFEO5qy80pwUra0wu5TvypwmRS68tm7EIJHbP",
+  "time": 1543694661,
   "to": "MV9rwGOf08"
- }, 
+ },
  {
-  "msg": "EzYbCGvrppXnE8641oPkeexFtQ6AWOd+O0IrNxnjdVLvMjPMQWd8yZdfkd1Ang8+r8OUmG9y6vtX6TlnnfhRQt0AL5nbyxXeFGoseMmOb1kb5gTfSgJIQR8kcpL7uycLuoYruBR/", 
-  "time": 1543696748, 
+  "msg": "EzYbCGvrppXnE8641oPkeexFtQ6AWOd+O0IrNxnjdVLvMjPMQWd8yZdfkd1Ang8+r8OUmG9y6vtX6TlnnfhRQt0AL5nbyxXeFGoseMmOb1kb5gTfSgJIQR8kcpL7uycLuoYruBR/",
+  "time": 1543696748,
   "to": "LosFuzzys"
- }, 
+ },
  {
-  "msg": "pqVtIqcb1d6Piwps5Z15bF5VnA9fcYvGHOKh36mIPF6Sxs3Ahoze5zfesGbiZPdVc7ue4H7/CHOUdzhl8ArZqF/LEieL1M0Sm8M/P7R7tn2b3Kw7rz1BxvbSxW1BiJyL8E+/0m7x", 
-  "time": 1543703626, 
+  "msg": "pqVtIqcb1d6Piwps5Z15bF5VnA9fcYvGHOKh36mIPF6Sxs3Ahoze5zfesGbiZPdVc7ue4H7/CHOUdzhl8ArZqF/LEieL1M0Sm8M/P7R7tn2b3Kw7rz1BxvbSxW1BiJyL8E+/0m7x",
+  "time": 1543703626,
   "to": "badfirmware"
- }, 
+ },
  {
-  "msg": "lhKRg6e6R2mgb+rP/3eZImgcs+9UwV/2ys0Wv/79ey1fXCPag6rbB/UQzwuIHKkrUZudUAFQPuevrTWj1WbZuI7L/Piz2swYG21hHXLOARuDDTdadiDtAnZ6y8B/OdRKqNSDwX1H", 
-  "time": 1543703972, 
+  "msg": "lhKRg6e6R2mgb+rP/3eZImgcs+9UwV/2ys0Wv/79ey1fXCPag6rbB/UQzwuIHKkrUZudUAFQPuevrTWj1WbZuI7L/Piz2swYG21hHXLOARuDDTdadiDtAnZ6y8B/OdRKqNSDwX1H",
+  "time": 1543703972,
   "to": "318br"
- }, 
+ },
  {
-  "msg": "[Trick or Treat] If you passed the first step and are stuck, maybe looking into the past will help you, sometimes silly silly things come back to haunt us. When a Knight is in your way and blocks all your attacks, maybe you make the past scare him instead of you.", 
+  "msg": "[Trick or Treat] If you passed the first step and are stuck, maybe looking into the past will help you, sometimes silly silly things come back to haunt us. When a Knight is in your way and blocks all your attacks, maybe you make the past scare him instead of you.",
   "time": 1543709695
- }, 
+ },
  {
-  "msg": "[Attack Step] To complete the handshake, the code expected is in ASCII (of course) and starts with Code (you will know when you find it) :)", 
+  "msg": "[Attack Step] To complete the handshake, the code expected is in ASCII (of course) and starts with Code (you will know when you find it) :)",
   "time": 1543739679
- }, 
+ },
  {
-  "msg": "[FEEDBACK] Give your feedback pls: https://goo.gl/hJcXm6 :)", 
+  "msg": "[FEEDBACK] Give your feedback pls: https://goo.gl/hJcXm6 :)",
   "time": 1543741903
- }, 
+ },
  {
-  "msg": "Message Board [Fourth Flag] - If you think that found the right flag, contact gnx on IRC (there is a small bug)!", 
+  "msg": "Message Board [Fourth Flag] - If you think that found the right flag, contact gnx on IRC (there is a small bug)!",
   "time": 1543745034
- }, 
+ },
  {
-  "msg": "[Back to Bletchley Park] Apparently we managed to trigger a bug in gzip. The uncompressed file had some bits corrupted which would make parsing it harder. We posted a reduced version (640 bits) which did not trigger the bug. Shortly we will re-upload the 1024 bit version for those who want to be more hardcore. We will accept solutions for any of them.", 
+  "msg": "[Back to Bletchley Park] Apparently we managed to trigger a bug in gzip. The uncompressed file had some bits corrupted which would make parsing it harder. We posted a reduced version (640 bits) which did not trigger the bug. Shortly we will re-upload the 1024 bit version for those who want to be more hardcore. We will accept solutions for any of them.",
   "time": 1543750674
- }, 
+ },
  {
-  "msg": "[BavBin] There is a cool article from Gareth Heyes (https://goo.gl/S2s3qk) which shows some cool stuff you can do with javascript. Don't focus on what the did, but on what else could be done.", 
+  "msg": "[BavBin] There is a cool article from Gareth Heyes (https://goo.gl/S2s3qk) which shows some cool stuff you can do with javascript. Don't focus on what the did, but on what else could be done.",
   "time": 1543755646
- }, 
+ },
  {
-  "msg": "[FEEDBACK] Give your feedback pls: https://goo.gl/hJcXm6 :)", 
+  "msg": "[FEEDBACK] Give your feedback pls: https://goo.gl/hJcXm6 :)",
   "time": 1543755725
- }, 
+ },
  {
-  "msg": "[Back to Bletchley Park] The 1024 bit version is back up.", 
+  "msg": "[Back to Bletchley Park] The 1024 bit version is back up.",
   "time": 1543756123
+ },
+ {
+  "msg": "gFtWCLB1lHzFYlvL1N9mNYpkTYdVsdhlfs1d7LD5Bn71F9sgI/RSlqdlpjvTF077QDzoUHsSTbXG8YcZqlZhWPnqBYq0nXD1bv9gY6nJ+QlR2gRmXt200/QmrWkMr32ffMSctr0+",
+  "time": 1543761064,
+  "to": "blue hens"
  }
 ]
