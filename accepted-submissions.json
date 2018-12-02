@@ -61,9 +61,9 @@
    "team": "Balsn"
   }, 
   {
-   "lastAccept": 1543737279, 
+   "lastAccept": 1543746245, 
    "pos": 2, 
-   "score": 3037, 
+   "score": 3537, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 71, 
@@ -92,6 +92,10 @@
     "message_board_pt3": {
      "points": 474, 
      "time": 1543737279
+    }, 
+    "message_board_pt4": {
+     "points": 500, 
+     "time": 1543746245
     }, 
     "sum": {
      "points": 100, 
@@ -3373,6 +3377,7 @@
   "message_board_pt1", 
   "mdfm_flag_verifier", 
   "message_board_pt2", 
-  "message_board_pt3"
+  "message_board_pt3", 
+  "message_board_pt4"
  ]
 }
