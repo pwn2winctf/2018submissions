@@ -2461,8 +2461,28 @@
    "team": "SkyBulk"
   }, 
   {
-   "lastAccept": 1543593266, 
+   "lastAccept": 1543730011, 
    "pos": 103, 
+   "score": 289, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 72, 
+     "time": 1543681987
+    }, 
+    "g00d_b0y": {
+     "points": 117, 
+     "time": 1543682930
+    }, 
+    "sum": {
+     "points": 100, 
+     "time": 1543730011
+    }
+   }, 
+   "team": "taiyaki"
+  }, 
+  {
+   "lastAccept": 1543593266, 
+   "pos": 104, 
    "score": 189, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -2478,7 +2498,7 @@
   }, 
   {
    "lastAccept": 1543594392, 
-   "pos": 104, 
+   "pos": 105, 
    "score": 189, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -2494,7 +2514,7 @@
   }, 
   {
    "lastAccept": 1543594518, 
-   "pos": 105, 
+   "pos": 106, 
    "score": 189, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -2510,7 +2530,7 @@
   }, 
   {
    "lastAccept": 1543595727, 
-   "pos": 106, 
+   "pos": 107, 
    "score": 189, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -2526,7 +2546,7 @@
   }, 
   {
    "lastAccept": 1543596029, 
-   "pos": 107, 
+   "pos": 108, 
    "score": 189, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -2542,7 +2562,7 @@
   }, 
   {
    "lastAccept": 1543596360, 
-   "pos": 108, 
+   "pos": 109, 
    "score": 189, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -2558,7 +2578,7 @@
   }, 
   {
    "lastAccept": 1543631964, 
-   "pos": 109, 
+   "pos": 110, 
    "score": 189, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -2574,7 +2594,7 @@
   }, 
   {
    "lastAccept": 1543642615, 
-   "pos": 110, 
+   "pos": 111, 
    "score": 189, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -2590,7 +2610,7 @@
   }, 
   {
    "lastAccept": 1543667821, 
-   "pos": 111, 
+   "pos": 112, 
    "score": 189, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -2603,22 +2623,6 @@
     }
    }, 
    "team": "CaptureTheSwag"
-  }, 
-  {
-   "lastAccept": 1543682930, 
-   "pos": 112, 
-   "score": 189, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 72, 
-     "time": 1543681987
-    }, 
-    "g00d_b0y": {
-     "points": 117, 
-     "time": 1543682930
-    }
-   }, 
-   "team": "taiyaki"
   }, 
   {
    "lastAccept": 1543594817, 
