@@ -3,7 +3,7 @@
   {
    "lastAccept": 1543739671, 
    "pos": 1, 
-   "score": 4033, 
+   "score": 4018, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 71, 
@@ -30,7 +30,7 @@
      "time": 1543653138
     }, 
     "message_board_pt1": {
-     "points": 435, 
+     "points": 420, 
      "time": 1543666743
     }, 
     "message_board_pt2": {
@@ -63,7 +63,7 @@
   {
    "lastAccept": 1543750975, 
    "pos": 2, 
-   "score": 3905, 
+   "score": 3890, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 71, 
@@ -86,7 +86,7 @@
      "time": 1543618245
     }, 
     "message_board_pt1": {
-     "points": 435, 
+     "points": 420, 
      "time": 1543647266
     }, 
     "message_board_pt2": {
@@ -119,7 +119,7 @@
   {
    "lastAccept": 1543724383, 
    "pos": 3, 
-   "score": 2282, 
+   "score": 2267, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 71, 
@@ -138,7 +138,7 @@
      "time": 1543673488
     }, 
     "message_board_pt1": {
-     "points": 435, 
+     "points": 420, 
      "time": 1543690761
     }, 
     "minishell": {
@@ -161,40 +161,44 @@
    "team": "FireShell"
   }, 
   {
-   "lastAccept": 1543693297, 
+   "lastAccept": 1543753047, 
    "pos": 4, 
-   "score": 1916, 
+   "score": 2127, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 71, 
-     "time": 1543592768
+     "time": 1543592936
+    }, 
+    "bavarian_hierarchy": {
+     "points": 249, 
+     "time": 1543670193
+    }, 
+    "bergs_club": {
+     "points": 383, 
+     "time": 1543686116
     }, 
     "g00d_b0y": {
      "points": 117, 
-     "time": 1543618501
-    }, 
-    "mdfm_flag_verifier": {
-     "points": 500, 
-     "time": 1543670644
+     "time": 1543656438
     }, 
     "message_board_pt1": {
-     "points": 435, 
-     "time": 1543693297
+     "points": 420, 
+     "time": 1543753047
     }, 
     "minishell": {
      "points": 288, 
-     "time": 1543611018
+     "time": 1543656274
     }, 
     "sum": {
      "points": 99, 
-     "time": 1543612004
+     "time": 1543594845
     }, 
-    "too_slow": {
-     "points": 406, 
-     "time": 1543618007
+    "tpm20": {
+     "points": 500, 
+     "time": 1543746417
     }
    }, 
-   "team": "Bushwhackers"
+   "team": "spritzers"
   }, 
   {
    "lastAccept": 1543720199, 
@@ -237,8 +241,44 @@
    "team": "justCatTheFish"
   }, 
   {
-   "lastAccept": 1543706559, 
+   "lastAccept": 1543693297, 
    "pos": 6, 
+   "score": 1901, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 71, 
+     "time": 1543592768
+    }, 
+    "g00d_b0y": {
+     "points": 117, 
+     "time": 1543618501
+    }, 
+    "mdfm_flag_verifier": {
+     "points": 500, 
+     "time": 1543670644
+    }, 
+    "message_board_pt1": {
+     "points": 420, 
+     "time": 1543693297
+    }, 
+    "minishell": {
+     "points": 288, 
+     "time": 1543611018
+    }, 
+    "sum": {
+     "points": 99, 
+     "time": 1543612004
+    }, 
+    "too_slow": {
+     "points": 406, 
+     "time": 1543618007
+    }
+   }, 
+   "team": "Bushwhackers"
+  }, 
+  {
+   "lastAccept": 1543706559, 
+   "pos": 7, 
    "score": 1870, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -278,7 +318,7 @@
   }, 
   {
    "lastAccept": 1543747069, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 1870, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -315,42 +355,6 @@
     }
    }, 
    "team": "The Wind Warriors"
-  }, 
-  {
-   "lastAccept": 1543746417, 
-   "pos": 8, 
-   "score": 1707, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 71, 
-     "time": 1543592936
-    }, 
-    "bavarian_hierarchy": {
-     "points": 249, 
-     "time": 1543670193
-    }, 
-    "bergs_club": {
-     "points": 383, 
-     "time": 1543686116
-    }, 
-    "g00d_b0y": {
-     "points": 117, 
-     "time": 1543656438
-    }, 
-    "minishell": {
-     "points": 288, 
-     "time": 1543656274
-    }, 
-    "sum": {
-     "points": 99, 
-     "time": 1543594845
-    }, 
-    "tpm20": {
-     "points": 500, 
-     "time": 1543746417
-    }
-   }, 
-   "team": "spritzers"
   }, 
   {
    "lastAccept": 1543733694, 
