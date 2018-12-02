@@ -117,8 +117,56 @@
    "team": "GooseCTF"
   }, 
   {
-   "lastAccept": 1543755250, 
+   "lastAccept": 1543757248, 
    "pos": 3, 
+   "score": 2750, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 70, 
+     "time": 1543593221
+    }, 
+    "attack_step_first": {
+     "points": 500, 
+     "time": 1543757248
+    }, 
+    "bavarian_hierarchy": {
+     "points": 249, 
+     "time": 1543641787
+    }, 
+    "g00d_b0y": {
+     "points": 116, 
+     "time": 1543592813
+    }, 
+    "gcm": {
+     "points": 383, 
+     "time": 1543673488
+    }, 
+    "message_board_pt1": {
+     "points": 406, 
+     "time": 1543690761
+    }, 
+    "minishell": {
+     "points": 288, 
+     "time": 1543645017
+    }, 
+    "russian_polygons": {
+     "points": 326, 
+     "time": 1543724383
+    }, 
+    "sum": {
+     "points": 98, 
+     "time": 1543594225
+    }, 
+    "ultramegapolyglot": {
+     "points": 314, 
+     "time": 1543699187
+    }
+   }, 
+   "team": "FireShell"
+  }, 
+  {
+   "lastAccept": 1543755250, 
+   "pos": 4, 
    "score": 2273, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -159,50 +207,6 @@
     }
    }, 
    "team": "HTsP"
-  }, 
-  {
-   "lastAccept": 1543724383, 
-   "pos": 4, 
-   "score": 2250, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 70, 
-     "time": 1543593221
-    }, 
-    "bavarian_hierarchy": {
-     "points": 249, 
-     "time": 1543641787
-    }, 
-    "g00d_b0y": {
-     "points": 116, 
-     "time": 1543592813
-    }, 
-    "gcm": {
-     "points": 383, 
-     "time": 1543673488
-    }, 
-    "message_board_pt1": {
-     "points": 406, 
-     "time": 1543690761
-    }, 
-    "minishell": {
-     "points": 288, 
-     "time": 1543645017
-    }, 
-    "russian_polygons": {
-     "points": 326, 
-     "time": 1543724383
-    }, 
-    "sum": {
-     "points": 98, 
-     "time": 1543594225
-    }, 
-    "ultramegapolyglot": {
-     "points": 314, 
-     "time": 1543699187
-    }
-   }, 
-   "team": "FireShell"
   }, 
   {
    "lastAccept": 1543753047, 
@@ -3435,6 +3439,7 @@
   "message_board_pt2", 
   "message_board_pt3", 
   "message_board_pt4", 
-  "tpm20"
+  "tpm20", 
+  "attack_step_first"
  ]
 }
