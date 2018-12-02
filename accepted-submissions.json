@@ -3,7 +3,7 @@
   {
    "lastAccept": 1543739671, 
    "pos": 1, 
-   "score": 4049, 
+   "score": 4038, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 71, 
@@ -14,7 +14,7 @@
      "time": 1543603146
     }, 
     "bergs_club": {
-     "points": 394, 
+     "points": 383, 
      "time": 1543603245
     }, 
     "emetacrazy": {
@@ -61,9 +61,9 @@
    "team": "Balsn"
   }, 
   {
-   "lastAccept": 1543746245, 
+   "lastAccept": 1543750975, 
    "pos": 2, 
-   "score": 3536, 
+   "score": 3919, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 71, 
@@ -72,6 +72,10 @@
     "bavarian_hierarchy": {
      "points": 249, 
      "time": 1543623294
+    }, 
+    "bergs_club": {
+     "points": 383, 
+     "time": 1543750975
     }, 
     "g00d_b0y": {
      "points": 117, 
@@ -195,7 +199,7 @@
   {
    "lastAccept": 1543720199, 
    "pos": 5, 
-   "score": 1932, 
+   "score": 1921, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 71, 
@@ -206,7 +210,7 @@
      "time": 1543720199
     }, 
     "bergs_club": {
-     "points": 394, 
+     "points": 383, 
      "time": 1543615705
     }, 
     "g00d_b0y": {
@@ -315,7 +319,7 @@
   {
    "lastAccept": 1543746417, 
    "pos": 8, 
-   "score": 1723, 
+   "score": 1712, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 71, 
@@ -326,7 +330,7 @@
      "time": 1543670193
     }, 
     "bergs_club": {
-     "points": 394, 
+     "points": 383, 
      "time": 1543686116
     }, 
     "g00d_b0y": {
@@ -423,14 +427,14 @@
   {
    "lastAccept": 1543676296, 
    "pos": 11, 
-   "score": 1394, 
+   "score": 1383, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 71, 
      "time": 1543595065
     }, 
     "bergs_club": {
-     "points": 394, 
+     "points": 383, 
      "time": 1543626885
     }, 
     "g00d_b0y": {
@@ -707,14 +711,14 @@
   {
    "lastAccept": 1543678047, 
    "pos": 20, 
-   "score": 995, 
+   "score": 984, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 71, 
      "time": 1543594484
     }, 
     "bergs_club": {
-     "points": 394, 
+     "points": 383, 
      "time": 1543637437
     }, 
     "g00d_b0y": {
@@ -735,14 +739,14 @@
   {
    "lastAccept": 1543701439, 
    "pos": 21, 
-   "score": 995, 
+   "score": 984, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 71, 
      "time": 1543656726
     }, 
     "bergs_club": {
-     "points": 394, 
+     "points": 383, 
      "time": 1543659274
     }, 
     "g00d_b0y": {
@@ -763,14 +767,14 @@
   {
    "lastAccept": 1543703533, 
    "pos": 22, 
-   "score": 974, 
+   "score": 963, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 71, 
      "time": 1543598535
     }, 
     "bergs_club": {
-     "points": 394, 
+     "points": 383, 
      "time": 1543698389
     }, 
     "g00d_b0y": {
