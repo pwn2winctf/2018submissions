@@ -97,8 +97,48 @@
    "team": "FireShell"
   }, 
   {
-   "lastAccept": 1543693297, 
+   "lastAccept": 1543731554, 
    "pos": 3, 
+   "score": 2180, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 72, 
+     "time": 1543593930
+    }, 
+    "bavarian_hierarchy": {
+     "points": 253, 
+     "time": 1543623294
+    }, 
+    "g00d_b0y": {
+     "points": 117, 
+     "time": 1543592806
+    }, 
+    "gcm": {
+     "points": 383, 
+     "time": 1543618245
+    }, 
+    "message_board_pt1": {
+     "points": 435, 
+     "time": 1543647266
+    }, 
+    "message_board_pt2": {
+     "points": 500, 
+     "time": 1543731554
+    }, 
+    "sum": {
+     "points": 100, 
+     "time": 1543601724
+    }, 
+    "ultramegapolyglot": {
+     "points": 320, 
+     "time": 1543601385
+    }
+   }, 
+   "team": "GooseCTF"
+  }, 
+  {
+   "lastAccept": 1543693297, 
+   "pos": 4, 
    "score": 1957, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -134,7 +174,7 @@
   }, 
   {
    "lastAccept": 1543720199, 
-   "pos": 4, 
+   "pos": 5, 
    "score": 1950, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -174,7 +214,7 @@
   }, 
   {
    "lastAccept": 1543706559, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 1928, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -211,42 +251,6 @@
     }
    }, 
    "team": "HTsP"
-  }, 
-  {
-   "lastAccept": 1543647266, 
-   "pos": 6, 
-   "score": 1680, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 72, 
-     "time": 1543593930
-    }, 
-    "bavarian_hierarchy": {
-     "points": 253, 
-     "time": 1543623294
-    }, 
-    "g00d_b0y": {
-     "points": 117, 
-     "time": 1543592806
-    }, 
-    "gcm": {
-     "points": 383, 
-     "time": 1543618245
-    }, 
-    "message_board_pt1": {
-     "points": 435, 
-     "time": 1543647266
-    }, 
-    "sum": {
-     "points": 100, 
-     "time": 1543601724
-    }, 
-    "ultramegapolyglot": {
-     "points": 320, 
-     "time": 1543601385
-    }
-   }, 
-   "team": "GooseCTF"
   }, 
   {
    "lastAccept": 1543668652, 
@@ -3315,6 +3319,7 @@
   "too_slow", 
   "emetacrazy", 
   "message_board_pt1", 
-  "mdfm_flag_verifier"
+  "mdfm_flag_verifier", 
+  "message_board_pt2"
  ]
 }
