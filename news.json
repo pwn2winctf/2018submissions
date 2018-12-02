@@ -150,5 +150,9 @@
  {
   "msg": "[Attack Step] To complete the handshake, the code expected is in ASCII (of course) and starts with Code (you will know when you find it) :)",
   "time": 1543739679
+ },
+ {
+  "msg": "[FEEDBACK] Give your feedback pls: https://goo.gl/hJcXm6 :)",
+  "time": 1543741903
  }
 ]
