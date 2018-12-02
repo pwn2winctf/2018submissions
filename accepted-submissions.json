@@ -3,7 +3,7 @@
   {
    "lastAccept": 1543739671, 
    "pos": 1, 
-   "score": 3977, 
+   "score": 3971, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -46,7 +46,7 @@
      "time": 1543610671
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543675234
     }, 
     "sum": {
@@ -119,7 +119,7 @@
   {
    "lastAccept": 1543757248, 
    "pos": 3, 
-   "score": 2726, 
+   "score": 2720, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -150,7 +150,7 @@
      "time": 1543645017
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543724383
     }, 
     "sum": {
@@ -167,7 +167,7 @@
   {
    "lastAccept": 1543757590, 
    "pos": 4, 
-   "score": 2301, 
+   "score": 2295, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -198,7 +198,7 @@
      "time": 1543676999
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543712885
     }, 
     "sum": {
@@ -211,7 +211,7 @@
   {
    "lastAccept": 1543755250, 
    "pos": 5, 
-   "score": 2249, 
+   "score": 2243, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -234,7 +234,7 @@
      "time": 1543656913
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543646496
     }, 
     "sum": {
@@ -295,7 +295,7 @@
   {
    "lastAccept": 1543747069, 
    "pos": 7, 
-   "score": 1855, 
+   "score": 1849, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -314,7 +314,7 @@
      "time": 1543628212
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543747069
     }, 
     "sum": {
@@ -407,7 +407,7 @@
   {
    "lastAccept": 1543692868, 
    "pos": 10, 
-   "score": 1544, 
+   "score": 1538, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -426,7 +426,7 @@
      "time": 1543605989
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543683479
     }, 
     "sum": {
@@ -567,7 +567,7 @@
   {
    "lastAccept": 1543760974, 
    "pos": 15, 
-   "score": 1236, 
+   "score": 1230, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -586,7 +586,7 @@
      "time": 1543612441
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543760974
     }, 
     "sum": {
@@ -599,7 +599,7 @@
   {
    "lastAccept": 1543644913, 
    "pos": 16, 
-   "score": 1161, 
+   "score": 1155, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -614,7 +614,7 @@
      "time": 1543620592
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543644913
     }, 
     "sum": {
@@ -631,7 +631,7 @@
   {
    "lastAccept": 1543653635, 
    "pos": 17, 
-   "score": 1161, 
+   "score": 1155, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -646,7 +646,7 @@
      "time": 1543601852
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543649133
     }, 
     "sum": {
@@ -663,7 +663,7 @@
   {
    "lastAccept": 1543703918, 
    "pos": 18, 
-   "score": 1161, 
+   "score": 1155, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -678,7 +678,7 @@
      "time": 1543593451
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543652037
     }, 
     "sum": {
@@ -695,7 +695,7 @@
   {
    "lastAccept": 1543637182, 
    "pos": 19, 
-   "score": 1141, 
+   "score": 1135, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -714,7 +714,7 @@
      "time": 1543637182
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543610690
     }, 
     "sum": {
@@ -725,8 +725,40 @@
    "team": "Kernel Sanders"
   }, 
   {
-   "lastAccept": 1543694600, 
+   "lastAccept": 1543762336, 
    "pos": 20, 
+   "score": 1135, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 70, 
+     "time": 1543596780
+    }, 
+    "bavarian_hierarchy": {
+     "points": 249, 
+     "time": 1543666801
+    }, 
+    "g00d_b0y": {
+     "points": 116, 
+     "time": 1543668969
+    }, 
+    "minishell": {
+     "points": 288, 
+     "time": 1543726685
+    }, 
+    "russian_polygons": {
+     "points": 314, 
+     "time": 1543762336
+    }, 
+    "sum": {
+     "points": 98, 
+     "time": 1543598817
+    }
+   }, 
+   "team": "RevEng"
+  }, 
+  {
+   "lastAccept": 1543694600, 
+   "pos": 21, 
    "score": 1129, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -758,7 +790,7 @@
   }, 
   {
    "lastAccept": 1543696690, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 1129, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -790,7 +822,7 @@
   }, 
   {
    "lastAccept": 1543678047, 
-   "pos": 22, 
+   "pos": 23, 
    "score": 975, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -818,7 +850,7 @@
   }, 
   {
    "lastAccept": 1543701439, 
-   "pos": 23, 
+   "pos": 24, 
    "score": 975, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -846,7 +878,7 @@
   }, 
   {
    "lastAccept": 1543703533, 
-   "pos": 24, 
+   "pos": 25, 
    "score": 955, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -874,7 +906,7 @@
   }, 
   {
    "lastAccept": 1543739460, 
-   "pos": 25, 
+   "pos": 26, 
    "score": 916, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -902,8 +934,8 @@
   }, 
   {
    "lastAccept": 1543654628, 
-   "pos": 26, 
-   "score": 853, 
+   "pos": 27, 
+   "score": 847, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -918,7 +950,7 @@
      "time": 1543649509
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543654628
     }, 
     "sum": {
@@ -930,8 +962,8 @@
   }, 
   {
    "lastAccept": 1543665430, 
-   "pos": 27, 
-   "score": 853, 
+   "pos": 28, 
+   "score": 847, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -946,7 +978,7 @@
      "time": 1543654258
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543665430
     }, 
     "sum": {
@@ -958,8 +990,8 @@
   }, 
   {
    "lastAccept": 1543680459, 
-   "pos": 28, 
-   "score": 853, 
+   "pos": 29, 
+   "score": 847, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -974,7 +1006,7 @@
      "time": 1543662386
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543680459
     }, 
     "sum": {
@@ -986,8 +1018,8 @@
   }, 
   {
    "lastAccept": 1543694853, 
-   "pos": 29, 
-   "score": 853, 
+   "pos": 30, 
+   "score": 847, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -1002,7 +1034,7 @@
      "time": 1543606324
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543684923
     }, 
     "sum": {
@@ -1014,7 +1046,7 @@
   }, 
   {
    "lastAccept": 1543757492, 
-   "pos": 30, 
+   "pos": 31, 
    "score": 841, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -1039,34 +1071,6 @@
     }
    }, 
    "team": "LuftensHjaltar"
-  }, 
-  {
-   "lastAccept": 1543726685, 
-   "pos": 31, 
-   "score": 821, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 70, 
-     "time": 1543596780
-    }, 
-    "bavarian_hierarchy": {
-     "points": 249, 
-     "time": 1543666801
-    }, 
-    "g00d_b0y": {
-     "points": 116, 
-     "time": 1543668969
-    }, 
-    "minishell": {
-     "points": 288, 
-     "time": 1543726685
-    }, 
-    "sum": {
-     "points": 98, 
-     "time": 1543598817
-    }
-   }, 
-   "team": "RevEng"
   }, 
   {
    "lastAccept": 1543719632, 
@@ -1163,7 +1167,7 @@
   {
    "lastAccept": 1543676285, 
    "pos": 36, 
-   "score": 604, 
+   "score": 598, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -1174,7 +1178,7 @@
      "time": 1543676285
     }, 
     "russian_polygons": {
-     "points": 320, 
+     "points": 314, 
      "time": 1543676141
     }, 
     "sum": {
