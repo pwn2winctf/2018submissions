@@ -1,13 +1,17 @@
 {
  "standings": [
   {
-   "lastAccept": 1543739671, 
+   "lastAccept": 1543762437, 
    "pos": 1, 
-   "score": 3971, 
+   "score": 4471, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543593165
+    }, 
+    "back_to_bletchley_park": {
+     "points": 500, 
+     "time": 1543762437
     }, 
     "bavarian_hierarchy": {
      "points": 249, 
@@ -3460,6 +3464,7 @@
   "message_board_pt3", 
   "message_board_pt4", 
   "tpm20", 
-  "attack_step_first"
+  "attack_step_first", 
+  "back_to_bletchley_park"
  ]
 }
