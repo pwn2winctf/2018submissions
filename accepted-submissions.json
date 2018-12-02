@@ -273,8 +273,44 @@
    "team": "HTsP"
   }, 
   {
-   "lastAccept": 1543733694, 
+   "lastAccept": 1543746417, 
    "pos": 7, 
+   "score": 1729, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 71, 
+     "time": 1543592936
+    }, 
+    "bavarian_hierarchy": {
+     "points": 249, 
+     "time": 1543670193
+    }, 
+    "bergs_club": {
+     "points": 394, 
+     "time": 1543686116
+    }, 
+    "g00d_b0y": {
+     "points": 117, 
+     "time": 1543656438
+    }, 
+    "minishell": {
+     "points": 298, 
+     "time": 1543656274
+    }, 
+    "sum": {
+     "points": 100, 
+     "time": 1543594845
+    }, 
+    "tpm20": {
+     "points": 500, 
+     "time": 1543746417
+    }
+   }, 
+   "team": "spritzers"
+  }, 
+  {
+   "lastAccept": 1543733694, 
+   "pos": 8, 
    "score": 1675, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -310,7 +346,7 @@
   }, 
   {
    "lastAccept": 1543668652, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 1569, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -346,7 +382,7 @@
   }, 
   {
    "lastAccept": 1543692868, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 1567, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -382,7 +418,7 @@
   }, 
   {
    "lastAccept": 1543676296, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 1400, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -414,7 +450,7 @@
   }, 
   {
    "lastAccept": 1543703546, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 1320, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -446,7 +482,7 @@
   }, 
   {
    "lastAccept": 1543680891, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 1309, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -471,38 +507,6 @@
     }
    }, 
    "team": "Billy"
-  }, 
-  {
-   "lastAccept": 1543686116, 
-   "pos": 13, 
-   "score": 1229, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 71, 
-     "time": 1543592936
-    }, 
-    "bavarian_hierarchy": {
-     "points": 249, 
-     "time": 1543670193
-    }, 
-    "bergs_club": {
-     "points": 394, 
-     "time": 1543686116
-    }, 
-    "g00d_b0y": {
-     "points": 117, 
-     "time": 1543656438
-    }, 
-    "minishell": {
-     "points": 298, 
-     "time": 1543656274
-    }, 
-    "sum": {
-     "points": 100, 
-     "time": 1543594845
-    }
-   }, 
-   "team": "spritzers"
   }, 
   {
    "lastAccept": 1543644913, 
@@ -3378,6 +3382,7 @@
   "mdfm_flag_verifier", 
   "message_board_pt2", 
   "message_board_pt3", 
-  "message_board_pt4"
+  "message_board_pt4", 
+  "tpm20"
  ]
 }
