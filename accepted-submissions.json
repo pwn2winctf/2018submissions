@@ -3311,6 +3311,18 @@
     }
    }, 
    "team": "11111111"
+  }, 
+  {
+   "lastAccept": 1543733809, 
+   "pos": 161, 
+   "score": 72, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 72, 
+     "time": 1543733809
+    }
+   }, 
+   "team": "qult of quantum Q0w$"
   }
  ], 
  "tasks": [
