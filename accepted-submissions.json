@@ -3,7 +3,7 @@
   {
    "lastAccept": 1543762437, 
    "pos": 1, 
-   "score": 4465, 
+   "score": 4462, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -14,7 +14,7 @@
      "time": 1543762437
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543603146
     }, 
     "bergs_club": {
@@ -67,14 +67,14 @@
   {
    "lastAccept": 1543750975, 
    "pos": 2, 
-   "score": 3843, 
+   "score": 3840, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543593930
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543623294
     }, 
     "bergs_club": {
@@ -123,7 +123,7 @@
   {
    "lastAccept": 1543757248, 
    "pos": 3, 
-   "score": 2714, 
+   "score": 2711, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -134,7 +134,7 @@
      "time": 1543757248
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543641787
     }, 
     "g00d_b0y": {
@@ -171,14 +171,14 @@
   {
    "lastAccept": 1543757590, 
    "pos": 4, 
-   "score": 2289, 
+   "score": 2286, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543592633
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543720199
     }, 
     "bergs_club": {
@@ -215,14 +215,14 @@
   {
    "lastAccept": 1543755250, 
    "pos": 5, 
-   "score": 2225, 
+   "score": 2222, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543592917
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543646411
     }, 
     "g00d_b0y": {
@@ -259,14 +259,14 @@
   {
    "lastAccept": 1543753047, 
    "pos": 6, 
-   "score": 2098, 
+   "score": 2095, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543592936
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543670193
     }, 
     "bergs_club": {
@@ -299,14 +299,14 @@
   {
    "lastAccept": 1543762960, 
    "pos": 7, 
-   "score": 2055, 
+   "score": 2052, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543606401
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543616726
     }, 
     "emetacrazy": {
@@ -375,14 +375,14 @@
   {
    "lastAccept": 1543747069, 
    "pos": 9, 
-   "score": 1831, 
+   "score": 1828, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543592788
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543606267
     }, 
     "g00d_b0y": {
@@ -415,14 +415,14 @@
   {
    "lastAccept": 1543692868, 
    "pos": 10, 
-   "score": 1532, 
+   "score": 1529, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543593159
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543605273
     }, 
     "g00d_b0y": {
@@ -483,14 +483,14 @@
   {
    "lastAccept": 1543763004, 
    "pos": 12, 
-   "score": 1437, 
+   "score": 1434, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543609633
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543692908
     }, 
     "g00d_b0y": {
@@ -611,14 +611,14 @@
   {
    "lastAccept": 1543760974, 
    "pos": 16, 
-   "score": 1224, 
+   "score": 1221, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543594419
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543672833
     }, 
     "g00d_b0y": {
@@ -641,16 +641,48 @@
    "team": "blue hens"
   }, 
   {
-   "lastAccept": 1543644913, 
+   "lastAccept": 1543763485, 
    "pos": 17, 
-   "score": 1149, 
+   "score": 1201, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 70, 
+     "time": 1543598535
+    }, 
+    "bavarian_hierarchy": {
+     "points": 246, 
+     "time": 1543763485
+    }, 
+    "bergs_club": {
+     "points": 383, 
+     "time": 1543698389
+    }, 
+    "g00d_b0y": {
+     "points": 116, 
+     "time": 1543597021
+    }, 
+    "minishell": {
+     "points": 288, 
+     "time": 1543703533
+    }, 
+    "sum": {
+     "points": 98, 
+     "time": 1543597012
+    }
+   }, 
+   "team": "dcua"
+  }, 
+  {
+   "lastAccept": 1543644913, 
+   "pos": 18, 
+   "score": 1146, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543620718
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543627485
     }, 
     "g00d_b0y": {
@@ -674,15 +706,15 @@
   }, 
   {
    "lastAccept": 1543653635, 
-   "pos": 18, 
-   "score": 1149, 
+   "pos": 19, 
+   "score": 1146, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543593301
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543601511
     }, 
     "g00d_b0y": {
@@ -706,15 +738,15 @@
   }, 
   {
    "lastAccept": 1543703918, 
-   "pos": 19, 
-   "score": 1149, 
+   "pos": 20, 
+   "score": 1146, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543593599
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543614507
     }, 
     "g00d_b0y": {
@@ -738,15 +770,15 @@
   }, 
   {
    "lastAccept": 1543637182, 
-   "pos": 20, 
-   "score": 1129, 
+   "pos": 21, 
+   "score": 1126, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543593922
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543604393
     }, 
     "g00d_b0y": {
@@ -770,15 +802,15 @@
   }, 
   {
    "lastAccept": 1543696690, 
-   "pos": 21, 
-   "score": 1129, 
+   "pos": 22, 
+   "score": 1126, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543596531
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543620317
     }, 
     "g00d_b0y": {
@@ -802,15 +834,15 @@
   }, 
   {
    "lastAccept": 1543762336, 
-   "pos": 22, 
-   "score": 1129, 
+   "pos": 23, 
+   "score": 1126, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543596780
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543666801
     }, 
     "g00d_b0y": {
@@ -834,7 +866,7 @@
   }, 
   {
    "lastAccept": 1543678047, 
-   "pos": 23, 
+   "pos": 24, 
    "score": 975, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -862,7 +894,7 @@
   }, 
   {
    "lastAccept": 1543701439, 
-   "pos": 24, 
+   "pos": 25, 
    "score": 975, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -889,44 +921,16 @@
    "team": "Harekaze"
   }, 
   {
-   "lastAccept": 1543703533, 
-   "pos": 25, 
-   "score": 955, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 70, 
-     "time": 1543598535
-    }, 
-    "bergs_club": {
-     "points": 383, 
-     "time": 1543698389
-    }, 
-    "g00d_b0y": {
-     "points": 116, 
-     "time": 1543597021
-    }, 
-    "minishell": {
-     "points": 288, 
-     "time": 1543703533
-    }, 
-    "sum": {
-     "points": 98, 
-     "time": 1543597012
-    }
-   }, 
-   "team": "dcua"
-  }, 
-  {
    "lastAccept": 1543739460, 
    "pos": 26, 
-   "score": 916, 
+   "score": 913, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543605500
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543739460
     }, 
     "g00d_b0y": {
@@ -947,14 +951,14 @@
   {
    "lastAccept": 1543654628, 
    "pos": 27, 
-   "score": 841, 
+   "score": 838, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543597765
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543602880
     }, 
     "g00d_b0y": {
@@ -975,14 +979,14 @@
   {
    "lastAccept": 1543665430, 
    "pos": 28, 
-   "score": 841, 
+   "score": 838, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543640832
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543652868
     }, 
     "g00d_b0y": {
@@ -1003,14 +1007,14 @@
   {
    "lastAccept": 1543680459, 
    "pos": 29, 
-   "score": 841, 
+   "score": 838, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543662232
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543677612
     }, 
     "g00d_b0y": {
@@ -1031,14 +1035,14 @@
   {
    "lastAccept": 1543694853, 
    "pos": 30, 
-   "score": 841, 
+   "score": 838, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543621670
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543694853
     }, 
     "g00d_b0y": {
@@ -1059,14 +1063,14 @@
   {
    "lastAccept": 1543757492, 
    "pos": 31, 
-   "score": 841, 
+   "score": 838, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543592998
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543699435
     }, 
     "g00d_b0y": {
@@ -1085,32 +1089,8 @@
    "team": "LuftensHjaltar"
   }, 
   {
-   "lastAccept": 1543719632, 
-   "pos": 32, 
-   "score": 705, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 70, 
-     "time": 1543613798
-    }, 
-    "bavarian_hierarchy": {
-     "points": 249, 
-     "time": 1543719579
-    }, 
-    "minishell": {
-     "points": 288, 
-     "time": 1543719632
-    }, 
-    "sum": {
-     "points": 98, 
-     "time": 1543615672
-    }
-   }, 
-   "team": "noteam"
-  }, 
-  {
    "lastAccept": 1543661038, 
-   "pos": 33, 
+   "pos": 32, 
    "score": 704, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -1131,6 +1111,30 @@
     }
    }, 
    "team": "uroz"
+  }, 
+  {
+   "lastAccept": 1543719632, 
+   "pos": 33, 
+   "score": 702, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 70, 
+     "time": 1543613798
+    }, 
+    "bavarian_hierarchy": {
+     "points": 246, 
+     "time": 1543719579
+    }, 
+    "minishell": {
+     "points": 288, 
+     "time": 1543719632
+    }, 
+    "sum": {
+     "points": 98, 
+     "time": 1543615672
+    }
+   }, 
+   "team": "noteam"
   }, 
   {
    "lastAccept": 1543727609, 
@@ -1323,14 +1327,14 @@
   {
    "lastAccept": 1543611392, 
    "pos": 42, 
-   "score": 533, 
+   "score": 530, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543606127
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543611392
     }, 
     "g00d_b0y": {
@@ -1347,14 +1351,14 @@
   {
    "lastAccept": 1543623910, 
    "pos": 43, 
-   "score": 533, 
+   "score": 530, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543597646
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543623910
     }, 
     "g00d_b0y": {
@@ -1371,14 +1375,14 @@
   {
    "lastAccept": 1543660068, 
    "pos": 44, 
-   "score": 533, 
+   "score": 530, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543616672
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543660068
     }, 
     "g00d_b0y": {
@@ -1395,14 +1399,14 @@
   {
    "lastAccept": 1543662579, 
    "pos": 45, 
-   "score": 533, 
+   "score": 530, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543656000
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543662579
     }, 
     "g00d_b0y": {
@@ -1419,14 +1423,14 @@
   {
    "lastAccept": 1543670848, 
    "pos": 46, 
-   "score": 533, 
+   "score": 530, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543592928
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543670848
     }, 
     "g00d_b0y": {
@@ -1443,14 +1447,14 @@
   {
    "lastAccept": 1543671560, 
    "pos": 47, 
-   "score": 533, 
+   "score": 530, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543595002
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543671560
     }, 
     "g00d_b0y": {
@@ -1467,14 +1471,14 @@
   {
    "lastAccept": 1543674349, 
    "pos": 48, 
-   "score": 533, 
+   "score": 530, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543614515
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543674349
     }, 
     "g00d_b0y": {
@@ -1491,14 +1495,14 @@
   {
    "lastAccept": 1543684525, 
    "pos": 49, 
-   "score": 533, 
+   "score": 530, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
      "time": 1543615734
     }, 
     "bavarian_hierarchy": {
-     "points": 249, 
+     "points": 246, 
      "time": 1543684525
     }, 
     "g00d_b0y": {
