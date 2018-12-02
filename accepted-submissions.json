@@ -3,7 +3,7 @@
   {
    "lastAccept": 1543739671, 
    "pos": 1, 
-   "score": 4015, 
+   "score": 4001, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -30,7 +30,7 @@
      "time": 1543653138
     }, 
     "message_board_pt1": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543666743
     }, 
     "message_board_pt2": {
@@ -63,7 +63,7 @@
   {
    "lastAccept": 1543750975, 
    "pos": 2, 
-   "score": 3887, 
+   "score": 3873, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -86,7 +86,7 @@
      "time": 1543618245
     }, 
     "message_board_pt1": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543647266
     }, 
     "message_board_pt2": {
@@ -117,9 +117,53 @@
    "team": "GooseCTF"
   }, 
   {
-   "lastAccept": 1543724383, 
+   "lastAccept": 1543755250, 
    "pos": 3, 
-   "score": 2264, 
+   "score": 2273, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 70, 
+     "time": 1543592917
+    }, 
+    "bavarian_hierarchy": {
+     "points": 249, 
+     "time": 1543646411
+    }, 
+    "g00d_b0y": {
+     "points": 116, 
+     "time": 1543592831
+    }, 
+    "message_board_pt1": {
+     "points": 406, 
+     "time": 1543755250
+    }, 
+    "minishell": {
+     "points": 288, 
+     "time": 1543656913
+    }, 
+    "russian_polygons": {
+     "points": 326, 
+     "time": 1543646496
+    }, 
+    "sum": {
+     "points": 98, 
+     "time": 1543597631
+    }, 
+    "too_slow": {
+     "points": 406, 
+     "time": 1543706559
+    }, 
+    "ultramegapolyglot": {
+     "points": 314, 
+     "time": 1543681950
+    }
+   }, 
+   "team": "HTsP"
+  }, 
+  {
+   "lastAccept": 1543724383, 
+   "pos": 4, 
+   "score": 2250, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -138,7 +182,7 @@
      "time": 1543673488
     }, 
     "message_board_pt1": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543690761
     }, 
     "minishell": {
@@ -162,8 +206,8 @@
   }, 
   {
    "lastAccept": 1543753047, 
-   "pos": 4, 
-   "score": 2124, 
+   "pos": 5, 
+   "score": 2110, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -182,7 +226,7 @@
      "time": 1543656438
     }, 
     "message_board_pt1": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543753047
     }, 
     "minishell": {
@@ -202,7 +246,7 @@
   }, 
   {
    "lastAccept": 1543720199, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 1913, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -242,8 +286,8 @@
   }, 
   {
    "lastAccept": 1543693297, 
-   "pos": 6, 
-   "score": 1898, 
+   "pos": 7, 
+   "score": 1884, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 70, 
@@ -258,7 +302,7 @@
      "time": 1543670644
     }, 
     "message_board_pt1": {
-     "points": 420, 
+     "points": 406, 
      "time": 1543693297
     }, 
     "minishell": {
@@ -275,46 +319,6 @@
     }
    }, 
    "team": "Bushwhackers"
-  }, 
-  {
-   "lastAccept": 1543706559, 
-   "pos": 7, 
-   "score": 1867, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 70, 
-     "time": 1543592917
-    }, 
-    "bavarian_hierarchy": {
-     "points": 249, 
-     "time": 1543646411
-    }, 
-    "g00d_b0y": {
-     "points": 116, 
-     "time": 1543592831
-    }, 
-    "minishell": {
-     "points": 288, 
-     "time": 1543656913
-    }, 
-    "russian_polygons": {
-     "points": 326, 
-     "time": 1543646496
-    }, 
-    "sum": {
-     "points": 98, 
-     "time": 1543597631
-    }, 
-    "too_slow": {
-     "points": 406, 
-     "time": 1543706559
-    }, 
-    "ultramegapolyglot": {
-     "points": 314, 
-     "time": 1543681950
-    }
-   }, 
-   "team": "HTsP"
   }, 
   {
    "lastAccept": 1543747069, 
