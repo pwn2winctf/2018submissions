@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1543675234, 
+   "lastAccept": 1543713778, 
    "pos": 1, 
-   "score": 2736, 
+   "score": 3156, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 72, 
@@ -16,6 +16,10 @@
     "bergs_club": {
      "points": 394, 
      "time": 1543603245
+    }, 
+    "emetacrazy": {
+     "points": 420, 
+     "time": 1543713778
     }, 
     "g00d_b0y": {
      "points": 117, 
@@ -375,14 +379,14 @@
   {
    "lastAccept": 1543680891, 
    "pos": 11, 
-   "score": 1357, 
+   "score": 1342, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 72, 
      "time": 1543637962
     }, 
     "emetacrazy": {
-     "points": 435, 
+     "points": 420, 
      "time": 1543676670
     }, 
     "minishell": {
@@ -403,7 +407,7 @@
   {
    "lastAccept": 1543685871, 
    "pos": 12, 
-   "score": 1299, 
+   "score": 1284, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 72, 
@@ -414,7 +418,7 @@
      "time": 1543616726
     }, 
     "emetacrazy": {
-     "points": 435, 
+     "points": 420, 
      "time": 1543626757
     }, 
     "g00d_b0y": {
@@ -883,14 +887,14 @@
   {
    "lastAccept": 1543661038, 
    "pos": 28, 
-   "score": 725, 
+   "score": 710, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 72, 
      "time": 1543593460
     }, 
     "emetacrazy": {
-     "points": 435, 
+     "points": 420, 
      "time": 1543661038
     }, 
     "g00d_b0y": {
@@ -1287,14 +1291,14 @@
   {
    "lastAccept": 1543660234, 
    "pos": 45, 
-   "score": 507, 
+   "score": 492, 
    "taskStats": {
     "a_segregated_new_world": {
      "points": 72, 
      "time": 1543660234
     }, 
     "emetacrazy": {
-     "points": 435, 
+     "points": 420, 
      "time": 1543660054
     }
    }, 
