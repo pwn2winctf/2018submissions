@@ -293,44 +293,8 @@
    "team": "spritzers"
   }, 
   {
-   "lastAccept": 1543693297, 
-   "pos": 7, 
-   "score": 1872, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 70, 
-     "time": 1543592768
-    }, 
-    "g00d_b0y": {
-     "points": 116, 
-     "time": 1543618501
-    }, 
-    "mdfm_flag_verifier": {
-     "points": 500, 
-     "time": 1543670644
-    }, 
-    "message_board_pt1": {
-     "points": 394, 
-     "time": 1543693297
-    }, 
-    "minishell": {
-     "points": 288, 
-     "time": 1543611018
-    }, 
-    "sum": {
-     "points": 98, 
-     "time": 1543612004
-    }, 
-    "too_slow": {
-     "points": 406, 
-     "time": 1543618007
-    }
-   }, 
-   "team": "Bushwhackers"
-  }, 
-  {
    "lastAccept": 1543747069, 
-   "pos": 8, 
+   "pos": 7, 
    "score": 1855, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -367,6 +331,42 @@
     }
    }, 
    "team": "The Wind Warriors"
+  }, 
+  {
+   "lastAccept": 1543693297, 
+   "pos": 8, 
+   "score": 1846, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 70, 
+     "time": 1543592768
+    }, 
+    "g00d_b0y": {
+     "points": 116, 
+     "time": 1543618501
+    }, 
+    "mdfm_flag_verifier": {
+     "points": 474, 
+     "time": 1543670644
+    }, 
+    "message_board_pt1": {
+     "points": 394, 
+     "time": 1543693297
+    }, 
+    "minishell": {
+     "points": 288, 
+     "time": 1543611018
+    }, 
+    "sum": {
+     "points": 98, 
+     "time": 1543612004
+    }, 
+    "too_slow": {
+     "points": 406, 
+     "time": 1543618007
+    }
+   }, 
+   "team": "Bushwhackers"
   }, 
   {
    "lastAccept": 1543733694, 
@@ -441,8 +441,40 @@
    "team": "securisecctf"
   }, 
   {
-   "lastAccept": 1543676296, 
+   "lastAccept": 1543761433, 
    "pos": 11, 
+   "score": 1452, 
+   "taskStats": {
+    "a_segregated_new_world": {
+     "points": 70, 
+     "time": 1543621303
+    }, 
+    "g00d_b0y": {
+     "points": 116, 
+     "time": 1543614940
+    }, 
+    "mdfm_flag_verifier": {
+     "points": 474, 
+     "time": 1543761433
+    }, 
+    "minishell": {
+     "points": 288, 
+     "time": 1543752478
+    }, 
+    "sum": {
+     "points": 98, 
+     "time": 1543614668
+    }, 
+    "too_slow": {
+     "points": 406, 
+     "time": 1543752513
+    }
+   }, 
+   "team": "VoidHack"
+  }, 
+  {
+   "lastAccept": 1543676296, 
+   "pos": 12, 
    "score": 1375, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -474,7 +506,7 @@
   }, 
   {
    "lastAccept": 1543703546, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 1300, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -506,7 +538,7 @@
   }, 
   {
    "lastAccept": 1543680891, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 1296, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -534,7 +566,7 @@
   }, 
   {
    "lastAccept": 1543760974, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 1236, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -566,7 +598,7 @@
   }, 
   {
    "lastAccept": 1543644913, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 1161, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -598,7 +630,7 @@
   }, 
   {
    "lastAccept": 1543653635, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 1161, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -630,7 +662,7 @@
   }, 
   {
    "lastAccept": 1543703918, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 1161, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -662,7 +694,7 @@
   }, 
   {
    "lastAccept": 1543637182, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 1141, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -694,7 +726,7 @@
   }, 
   {
    "lastAccept": 1543694600, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 1129, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -726,7 +758,7 @@
   }, 
   {
    "lastAccept": 1543696690, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 1129, 
    "taskStats": {
     "a_segregated_new_world": {
@@ -755,34 +787,6 @@
     }
    }, 
    "team": "LosFuzzys"
-  }, 
-  {
-   "lastAccept": 1543752513, 
-   "pos": 21, 
-   "score": 978, 
-   "taskStats": {
-    "a_segregated_new_world": {
-     "points": 70, 
-     "time": 1543621303
-    }, 
-    "g00d_b0y": {
-     "points": 116, 
-     "time": 1543614940
-    }, 
-    "minishell": {
-     "points": 288, 
-     "time": 1543752478
-    }, 
-    "sum": {
-     "points": 98, 
-     "time": 1543614668
-    }, 
-    "too_slow": {
-     "points": 406, 
-     "time": 1543752513
-    }
-   }, 
-   "team": "VoidHack"
   }, 
   {
    "lastAccept": 1543678047, 
